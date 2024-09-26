@@ -19,7 +19,7 @@ PMIC Regulator
 
 
 <a href="https://www.youtube.com/watch?v=APrIkn0p9bU">
-<img src="https://github.com/circuitvalley/ultrazed_base_boards/blob/main/Ultrabase_PCIe/Manufacturing/Images/Ultrabase%20%20Open%20source%20Ultrazed%20PCIe%20Carrier%20Card%20for%20Xilinx%20AMD%20Zynq%20Ultrascale+%20FPGA%20SOC%20SOM%20(135).png" alt="Ultrascale+" width="985" height="560">
+<img src="https://github.com/circuitvalley/ultrazed_base_boards/blob/main/Ultrabase_PCIe/Manufacturing/Images/Ultrabase%20%20Open%20source%20Ultrazed%20PCIe%20Carrier%20Card%20for%20Xilinx%20AMD%20Zynq%20Ultrascale+%20FPGA%20SOC%20SOM%20(135).png" alt="Ultrascale+" width="809" height="460">
 </a>
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
