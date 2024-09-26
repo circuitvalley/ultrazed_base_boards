@@ -4,18 +4,18 @@ This repository contains Design files for Various Base board Designed for Avnet 
 
 Board Features Avent Ultrazed Board SOM 
 
-PS PCIe x1 Gen2 
-PS USB 3.0
-PS SATA 6Gbps
-PS Mini Display Port
-Gigabit Ethernet 
-microSD card 
-PL expansion Port
-PS and PL LEDs
-PL DIP Switch 
-Reset and PL Switch
-PLL Clock Gen
-PMIC Regulator
+.PS PCIe x1 Gen2 
+.PS USB 3.0
+.PS SATA 6Gbps
+.PS Mini Display Port
+.Gigabit Ethernet 
+.microSD card 
+.PL expansion Port
+.PS and PL LEDs
+.PL DIP Switch 
+.Reset and PL Switch
+.PLL Clock Gen
+.PMIC Regulator
 
 
 <a href="https://www.youtube.com/watch?v=APrIkn0p9bU">
