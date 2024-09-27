@@ -1,0 +1,3858 @@
+Software Version: 1.17.3.39050
+Personality: VC6+KHz Init [5.2]
+PersonalitySemanticVersion: V1.4.1
+Part#: 5P49V6975
+Modification Time: 29-Aug-24 12:23:12 AM
+Port: 
+FunctionalBlocks: D4,D0
+FunctionalBlocksProtocolType: 
+AlternateI2CSlaveAddress: FFFFFFFF
+AlternateDeviceI2CProtocolType: OneByteAddresses
+Voltage: 1.8
+DeviceType: OnboardUSB
+Device_ClockRate: 100000
+AdvancedModification: False
+DiagramZoomFactor: 0
+TraceFileEnabled: True
+DisableConnectionMonitoring: False
+WasAutoPollingOn: False
+AutoPollingFrequency: 1000
+WasWriteImmediately: True
+GraphingLogToFile: False
+GraphingLogToFileName: 
+GraphingDrawLines: True
+ExportProgrammingStringPath: 
+ExportProgrammingStringFormat: Generic
+ExportProgrammingStringProtocol: I2C
+ExportProgrammingStringFilter: All
+ExportProgrammingStringI2CAddress: 0
+ExportProgrammingStringAddressType: OneByteAddresses
+
+Byte#  BinaryValue HexValue Byte#
+00        01100001       61 00
+01        10000011       83 01
+02        11111111       ff 02
+03        00000000       00 03
+04        00000000       00 04
+05        00000000       00 05
+06        00000000       00 06
+07        00000000       00 07
+08        00000000       00 08
+09        11111111       ff 09
+0A        11111101       fd 0A
+0B        00000000       00 0B
+0C        00000000       00 0C
+0D        10110110       b6 0D
+0E        10110100       b4 0E
+0F        10010010       92 0F
+10        10101000       a8 10
+11        01001100       4c 11
+12        11111101       fd 12
+13        11111100       fc 13
+14        00000000       00 14
+15        00000011       03 15
+16        10001100       8c 16
+17        00000011       03 17
+18        01100000       60 18
+19        00000000       00 19
+1A        00000000       00 1A
+1B        00000000       00 1B
+1C        10011111       9f 1C
+1D        11111111       ff 1D
+1E        11110000       f0 1E
+1F        10000000       80 1F
+20        00000000       00 20
+21        10000001       81 21
+22        00000011       03 22
+23        11011000       d8 23
+24        10011101       9d 24
+25        10001000       88 25
+26        00000000       00 26
+27        00000000       00 27
+28        00000000       00 28
+29        00000000       00 29
+2A        00000000       00 2A
+2B        00000010       02 2B
+2C        01100000       60 2C
+2D        00000001       01 2D
+2E        10010000       90 2E
+2F        00011110       1e 2F
+30        00000000       00 30
+31        10000001       81 31
+32        00000011       03 32
+33        00110011       33 33
+34        00110011       33 34
+35        00110000       30 35
+36        00000000       00 36
+37        00000000       00 37
+38        00000000       00 38
+39        00000000       00 39
+3A        00000000       00 3A
+3B        00000010       02 3B
+3C        00000000       00 3C
+3D        00000000       00 3D
+3E        10100000       a0 3E
+3F        00111111       3f 3F
+40        00000000       00 40
+41        10000001       81 41
+42        00000000       00 42
+43        00000000       00 43
+44        00000000       00 44
+45        00000000       00 45
+46        00000000       00 46
+47        00000000       00 47
+48        00000000       00 48
+49        00000000       00 49
+4A        00000000       00 4A
+4B        00000000       00 4B
+4C        00000000       00 4C
+4D        00000011       03 4D
+4E        00100000       20 4E
+4F        00000000       00 4F
+50        00000000       00 50
+51        10000001       81 51
+52        00000010       02 52
+53        00000000       00 53
+54        00000000       00 54
+55        00000000       00 55
+56        00000000       00 56
+57        00000000       00 57
+58        00000000       00 58
+59        00000000       00 59
+5A        00000000       00 5A
+5B        00000001       01 5B
+5C        01000000       40 5C
+5D        00000000       00 5D
+5E        01000000       40 5E
+5F        00100000       20 5F
+60        01100011       63 60
+61        00000101       05 61
+62        01100011       63 62
+63        00000101       05 63
+64        01100011       63 64
+65        00000101       05 65
+66        01100011       63 66
+67        00000101       05 67
+68        11111100       fc 68
+69        11111100       fc 69
+6A        00000000       00 6A
+6B        00000000       00 6B
+6C        00000000       00 6C
+6D        00000000       00 6D
+6E        00000000       00 6E
+6F        10110000       b0 6F
+70        00000000       00 70
+71        01100000       60 71
+72        11110000       f0 72
+73        00000000       00 73
+74        11001110       ce 74
+75        00000000       00 75
+76        11100011       e3 76
+77        00000001       01 77
+78        00000001       01 78
+79        00010000       10 79
+7A        00000010       02 7A
+7B        00001000       08 7B
+7C        01101110       6e 7C
+7D        00000101       05 7D
+7E        00010100       14 7E
+7F        00000010       02 7F
+80        00000000       00 80
+81        00000000       00 81
+82        00000000       00 82
+83        00000000       00 83
+84        00000000       00 84
+85        00000000       00 85
+86        00000000       00 86
+87        00000000       00 87
+88        00000000       00 88
+89        00000000       00 89
+8A        00000000       00 8A
+8B        00000000       00 8B
+8C        00000000       00 8C
+8D        00000000       00 8D
+8E        00000000       00 8E
+8F        00000000       00 8F
+90        00000000       00 90
+91        00000000       00 91
+92        00000000       00 92
+93        00000000       00 93
+94        00000000       00 94
+95        00000000       00 95
+96        00000000       00 96
+97        00000000       00 97
+98        00000000       00 98
+99        00000000       00 99
+9A        00000000       00 9A
+9B        00000000       00 9B
+9C        00000000       00 9C
+9D        00000000       00 9D
+9E        00000000       00 9E
+9F        00000000       00 9F
+
+Data Fields
+-----------
+_dbgA: False|*
+_dbgA__dflt: False
+_dbgAon: False|*
+_dbgAon__dflt: False
+_dbgB: False|*
+_dbgB__dflt: False
+_dbgBon: False|*
+_dbgBon__dflt: False
+_dbgC: False|*
+_dbgC__dflt: False
+_dbgCon: False|*
+_dbgCon__dflt: False
+_PrimSrcCounter: 0|*
+_PrimSrcCounter__dflt: 0
+_REF_DIV_CTRL__0: False|*
+_REF_DIV_CTRL__0__dflt: False
+_REF_DIV_CTRL__1: False|*
+_REF_DIV_CTRL__1__dflt: False
+_REF_DIV_CTRL__2: False|*
+_REF_DIV_CTRL__2__dflt: False
+_REF_DIV_CTRL__3: False|*
+_REF_DIV_CTRL__3__dflt: False
+ActiveConfig: False|*
+ActiveConfig__dflt: False
+ADC_GAIN: 255|*
+ADC_GAIN__dflt: 255
+ADC_OFFSET: 0|*
+ADC_OFFSET__dflt: 0
+ADC_PWL_OUT: 0|*
+ADC_PWL_OUT__dflt: 0
+ADC_UPDATE_EN: 1|*
+ADC_UPDATE_EN__dflt: 1
+ADC_ZERO: 1|*
+ADC_ZERO__dflt: 1
+AdvOpt: False|*
+AdvOpt__dflt: False
+AFC_EN__0: 1|*
+AFC_EN__0__dflt: 1
+AFC_EN__1: 1|*
+AFC_EN__1__dflt: 1
+AFC_EN__2: 1|*
+AFC_EN__2__dflt: 1
+AFC_EN__3: 1|*
+AFC_EN__3__dflt: 1
+ALGO_1: False|*
+ALGO_1__dflt: False
+ALGO_FRAC: True|*
+ALGO_FRAC__dflt: True
+ALGO_INT: False|*
+ALGO_INT__dflt: False
+ALGO_SPUR: True|*
+ALGO_SPUR__dflt: True
+AltDivOptAlgo: False|*
+AltDivOptAlgo__dflt: False
+AUTO_I2C_RESET: True|*
+AUTO_I2C_RESET__dflt: True
+AUTO_MODE_1: False|*
+AUTO_MODE_1__dflt: False
+AUTO_MODE_2__0: False|*
+AUTO_MODE_2__0__dflt: False
+AUTO_MODE_2__1: False|*
+AUTO_MODE_2__1__dflt: False
+AUTO_MODE_2__2: False|*
+AUTO_MODE_2__2__dflt: False
+AUTO_MODE_2__3: False|*
+AUTO_MODE_2__3__dflt: False
+AUTO_MODE_3__0: False|*
+AUTO_MODE_3__0__dflt: False
+AUTO_MODE_3__1: False|*
+AUTO_MODE_3__1__dflt: False
+AUTO_MODE_3__2: False|*
+AUTO_MODE_3__2__dflt: False
+AUTO_MODE_3__3: False|*
+AUTO_MODE_3__3__dflt: False
+AUTO_MODE_4__0: False|*
+AUTO_MODE_4__0__dflt: False
+AUTO_MODE_4__1: False|*
+AUTO_MODE_4__1__dflt: False
+AUTO_MODE_4__2: False|*
+AUTO_MODE_4__2__dflt: False
+AUTO_MODE_4__3: False|*
+AUTO_MODE_4__3__dflt: False
+Auto_Write_Regs: False|*
+Auto_Write_Regs__dflt: False
+AUTO_ZERO_EN: 1|*
+AUTO_ZERO_EN__dflt: 1
+BACKUP_TEST: 1|*
+BACKUP_TEST__dflt: 1
+BadFraction__0: False|*
+BadFraction__0__dflt: False
+BadFraction__1: False|*
+BadFraction__1__dflt: False
+BadFraction__2: False|*
+BadFraction__2__dflt: False
+BadFraction__3: False|*
+BadFraction__3__dflt: False
+BAND_HI: 0|*
+BAND_HI__dflt: 0
+BAND_LOW: 0|*
+BAND_LOW__dflt: 0
+BANDGAP_CHOP_HI__0: 0|*
+BANDGAP_CHOP_HI__0__dflt: 0
+BANDGAP_CHOP_HI__1: 0|*
+BANDGAP_CHOP_HI__1__dflt: 0
+BANDGAP_CHOP_HI__2: 0|*
+BANDGAP_CHOP_HI__2__dflt: 0
+BANDGAP_CHOP_HI__3: 0|*
+BANDGAP_CHOP_HI__3__dflt: 0
+BANDGAP_CHOP_LO__0: 0|*
+BANDGAP_CHOP_LO__0__dflt: 0
+BANDGAP_CHOP_LO__1: 0|*
+BANDGAP_CHOP_LO__1__dflt: 0
+BANDGAP_CHOP_LO__2: 0|*
+BANDGAP_CHOP_LO__2__dflt: 0
+BANDGAP_CHOP_LO__3: 0|*
+BANDGAP_CHOP_LO__3__dflt: 0
+BANDGAP_TRIM_DN: 0|*
+BANDGAP_TRIM_DN__dflt: 0
+BANDGAP_TRIM_UP: 0|*
+BANDGAP_TRIM_UP__dflt: 0
+BANDGAP_VOLTAGE: 0|*
+BANDGAP_VOLTAGE__dflt: 0
+BANDMINUS: 0|*
+BANDMINUS__dflt: 0
+BANDPLUS: 0|*
+BANDPLUS__dflt: 0
+BITSTREAM: 0|*
+BITSTREAM__dflt: 0
+BURN_ACTIVE: 0|*
+BURN_ACTIVE__dflt: 0
+BURN_DONE: 0|*
+BURN_DONE__dflt: 0
+BURN_START: 0|*
+BURN_START__dflt: 0
+BUSY_LOOP_FILTER__0: False|*
+BUSY_LOOP_FILTER__0__dflt: False
+BUSY_LOOP_FILTER__1: False|*
+BUSY_LOOP_FILTER__1__dflt: False
+BUSY_LOOP_FILTER__2: False|*
+BUSY_LOOP_FILTER__2__dflt: False
+BUSY_LOOP_FILTER__3: False|*
+BUSY_LOOP_FILTER__3__dflt: False
+BW0__0: |*
+BW0__0__dflt: 
+BW0__1: |*
+BW0__1__dflt: 
+BW0__2: |*
+BW0__2__dflt: 
+BW0__3: |*
+BW0__3__dflt: 
+BW1__0: |*
+BW1__0__dflt: 
+BW1__1: |*
+BW1__1__dflt: 
+BW1__2: |*
+BW1__2__dflt: 
+BW1__3: |*
+BW1__3__dflt: 
+BYPASS_AVE: 1|*
+BYPASS_AVE__dflt: 1
+BYPASS_PREDIV__0: 1|*
+BYPASS_PREDIV__0__dflt: 1
+BYPASS_PREDIV__1: 1|*
+BYPASS_PREDIV__1__dflt: 1
+BYPASS_PREDIV__2: 1|*
+BYPASS_PREDIV__2__dflt: 1
+BYPASS_PREDIV__3: 1|*
+BYPASS_PREDIV__3__dflt: 1
+BYPASS_PWL: 1|*
+BYPASS_PWL__dflt: 1
+bypass_sync1: 0|*
+bypass_sync1__dflt: 0
+bypass_sync2: 0|*
+bypass_sync2__dflt: 0
+bypass_sync3: 0|*
+bypass_sync3__dflt: 0
+bypass_sync4: 0|*
+bypass_sync4__dflt: 0
+CAL_DONE_RO: 0|*
+CAL_DONE_RO__dflt: 0
+CALIBRATION_START__0: 1|*
+CALIBRATION_START__0__dflt: 1
+CALIBRATION_START__1: 1|*
+CALIBRATION_START__1__dflt: 1
+CALIBRATION_START__2: 1|*
+CALIBRATION_START__2__dflt: 1
+CALIBRATION_START__3: 1|*
+CALIBRATION_START__3__dflt: 1
+CanConnect: True|*
+CanConnect__dflt: True
+CAS_INTER_EN1__0: False|*
+CAS_INTER_EN1__0__dflt: False
+CAS_INTER_EN1__1: False|*
+CAS_INTER_EN1__1__dflt: False
+CAS_INTER_EN1__2: False|*
+CAS_INTER_EN1__2__dflt: False
+CAS_INTER_EN1__3: False|*
+CAS_INTER_EN1__3__dflt: False
+CAS_INTER_EN2__0: False|*
+CAS_INTER_EN2__0__dflt: False
+CAS_INTER_EN2__1: False|*
+CAS_INTER_EN2__1__dflt: False
+CAS_INTER_EN2__2: False|*
+CAS_INTER_EN2__2__dflt: False
+CAS_INTER_EN2__3: False|*
+CAS_INTER_EN2__3__dflt: False
+CAS_INTER_EN3__0: False|*
+CAS_INTER_EN3__0__dflt: False
+CAS_INTER_EN3__1: False|*
+CAS_INTER_EN3__1__dflt: False
+CAS_INTER_EN3__2: False|*
+CAS_INTER_EN3__2__dflt: False
+CAS_INTER_EN3__3: False|*
+CAS_INTER_EN3__3__dflt: False
+CC_JITTER_CLK1__0: |*
+CC_JITTER_CLK1__0__dflt: 
+CC_JITTER_CLK1__1: |*
+CC_JITTER_CLK1__1__dflt: 
+CC_JITTER_CLK1__2: |*
+CC_JITTER_CLK1__2__dflt: 
+CC_JITTER_CLK1__3: |*
+CC_JITTER_CLK1__3__dflt: 
+CC_JITTER_CLK2__0: |*
+CC_JITTER_CLK2__0__dflt: 
+CC_JITTER_CLK2__1: |*
+CC_JITTER_CLK2__1__dflt: 
+CC_JITTER_CLK2__2: |*
+CC_JITTER_CLK2__2__dflt: 
+CC_JITTER_CLK2__3: |*
+CC_JITTER_CLK2__3__dflt: 
+CC_JITTER_CLK3__0: |*
+CC_JITTER_CLK3__0__dflt: 
+CC_JITTER_CLK3__1: |*
+CC_JITTER_CLK3__1__dflt: 
+CC_JITTER_CLK3__2: |*
+CC_JITTER_CLK3__2__dflt: 
+CC_JITTER_CLK3__3: |*
+CC_JITTER_CLK3__3__dflt: 
+CC_JITTER_CLK4__0: |*
+CC_JITTER_CLK4__0__dflt: 
+CC_JITTER_CLK4__1: |*
+CC_JITTER_CLK4__1__dflt: 
+CC_JITTER_CLK4__2: |*
+CC_JITTER_CLK4__2__dflt: 
+CC_JITTER_CLK4__3: |*
+CC_JITTER_CLK4__3__dflt: 
+Cfg_0: True|L
+Cfg_0__dflt: False
+Cfg_1: False|*
+Cfg_1__dflt: False
+Cfg_2: False|*
+Cfg_2__dflt: False
+Cfg_3: False|*
+Cfg_3__dflt: False
+Cfg_All: False|*
+Cfg_All__dflt: False
+cfg_all_lock: False|*
+cfg_all_lock__dflt: False
+CFG_CYCLE_NEEDED: True|*
+CFG_CYCLE_NEEDED__dflt: True
+CFG_LOADED: False|*
+CFG_LOADED__dflt: False
+Cfg0_Burned: True|*
+Cfg0_Burned__dflt: True
+CFG0_LOCK: 1|*
+CFG0_LOCK__dflt: 1
+Cfg1_Burned: False|*
+Cfg1_Burned__dflt: False
+CFG1_LOCK: 0|*
+CFG1_LOCK__dflt: 0
+Cfg2_Burned: False|*
+Cfg2_Burned__dflt: False
+CFG2_LOCK: 0|*
+CFG2_LOCK__dflt: 0
+Cfg3_Burned: False|*
+Cfg3_Burned__dflt: False
+CFG3_LOCK: 0|*
+CFG3_LOCK__dflt: 0
+changedVCO: True|*
+changedVCO__dflt: True
+CHARGE_PUMP_BIAS: 0|*
+CHARGE_PUMP_BIAS__dflt: 0
+CL_ENTRY__0: False|*
+CL_ENTRY__0__dflt: False
+CL_ENTRY__1: False|*
+CL_ENTRY__1__dflt: False
+CL_ENTRY__2: False|*
+CL_ENTRY__2__dflt: False
+CL_ENTRY__3: False|*
+CL_ENTRY__3__dflt: False
+CL_VALUE__0: 11.4|*
+CL_VALUE__0__dflt: 11.4
+CL_VALUE__1: 11.4|*
+CL_VALUE__1__dflt: 11.4
+CL_VALUE__2: 11.4|*
+CL_VALUE__2__dflt: 11.4
+CL_VALUE__3: 11.4|*
+CL_VALUE__3__dflt: 11.4
+CLK_SEL__0: False|*
+CLK_SEL__0__dflt: False
+CLK_SEL__1: False|*
+CLK_SEL__1__dflt: False
+CLK_SEL__2: False|*
+CLK_SEL__2__dflt: False
+CLK_SEL__3: False|*
+CLK_SEL__3__dflt: False
+CLK_VREF_SEL: 0|*
+CLK_VREF_SEL__dflt: 0
+Clk0_NameA__0: |*
+Clk0_NameA__0__dflt: 
+Clk0_NameA__1: |*
+Clk0_NameA__1__dflt: 
+Clk0_NameA__2: |*
+Clk0_NameA__2__dflt: 
+Clk0_NameA__3: |*
+Clk0_NameA__3__dflt: 
+CLK0_OE__0: 1|*
+CLK0_OE__0__dflt: 1
+CLK0_OE__1: 1|*
+CLK0_OE__1__dflt: 1
+CLK0_OE__2: 1|*
+CLK0_OE__2__dflt: 1
+CLK0_OE__3: 1|*
+CLK0_OE__3__dflt: 1
+CLK0_OS__0: 1|L
+CLK0_OS__0__dflt: 0
+CLK0_OS__1: 0|*
+CLK0_OS__1__dflt: 0
+CLK0_OS__2: 0|*
+CLK0_OS__2__dflt: 0
+CLK0_OS__3: 0|*
+CLK0_OS__3__dflt: 0
+CLK0_PWR_SEL__0: 0|L
+CLK0_PWR_SEL__0__dflt: 3
+CLK0_PWR_SEL__1: 3|*
+CLK0_PWR_SEL__1__dflt: 3
+CLK0_PWR_SEL__2: 3|*
+CLK0_PWR_SEL__2__dflt: 3
+CLK0_PWR_SEL__3: 3|*
+CLK0_PWR_SEL__3__dflt: 3
+CLK0_SLEW__0: 3|*
+CLK0_SLEW__0__dflt: 3
+CLK0_SLEW__1: 3|*
+CLK0_SLEW__1__dflt: 3
+CLK0_SLEW__2: 3|*
+CLK0_SLEW__2__dflt: 3
+CLK0_SLEW__3: 3|*
+CLK0_SLEW__3__dflt: 3
+CLK0_SLEWRATE__0: 9|*
+CLK0_SLEWRATE__0__dflt: 9
+CLK0_SLEWRATE__1: 9|*
+CLK0_SLEWRATE__1__dflt: 9
+CLK0_SLEWRATE__2: 9|*
+CLK0_SLEWRATE__2__dflt: 9
+CLK0_SLEWRATE__3: 9|*
+CLK0_SLEWRATE__3__dflt: 9
+CLK1_AMP: 4|*
+CLK1_AMP__dflt: 4
+CLK1_AMUXEN2__0: 0|*
+CLK1_AMUXEN2__0__dflt: 0
+CLK1_AMUXEN2__1: 0|*
+CLK1_AMUXEN2__1__dflt: 0
+CLK1_AMUXEN2__2: 0|*
+CLK1_AMUXEN2__2__dflt: 0
+CLK1_AMUXEN2__3: 0|*
+CLK1_AMUXEN2__3__dflt: 0
+CLK1_CFG__0: 3|*
+CLK1_CFG__0__dflt: 3
+CLK1_CFG__1: 1|*
+CLK1_CFG__1__dflt: 1
+CLK1_CFG__2: 1|*
+CLK1_CFG__2__dflt: 1
+CLK1_CFG__3: 1|*
+CLK1_CFG__3__dflt: 1
+CLK1_Manual__0: False|*
+CLK1_Manual__0__dflt: False
+CLK1_Manual__1: False|*
+CLK1_Manual__1__dflt: False
+CLK1_Manual__2: False|*
+CLK1_Manual__2__dflt: False
+CLK1_Manual__3: False|*
+CLK1_Manual__3__dflt: False
+Clk1_NameA__0: |*
+Clk1_NameA__0__dflt: 
+Clk1_NameA__1: |*
+Clk1_NameA__1__dflt: 
+Clk1_NameA__2: |*
+Clk1_NameA__2__dflt: 
+Clk1_NameA__3: |*
+Clk1_NameA__3__dflt: 
+Clk1_NameB__0: |*
+Clk1_NameB__0__dflt: 
+Clk1_NameB__1: |*
+Clk1_NameB__1__dflt: 
+Clk1_NameB__2: |*
+Clk1_NameB__2__dflt: 
+Clk1_NameB__3: |*
+Clk1_NameB__3__dflt: 
+CLK1_OE__0: 1|*
+CLK1_OE__0__dflt: 1
+CLK1_OE__1: 1|*
+CLK1_OE__1__dflt: 1
+CLK1_OE__2: 1|*
+CLK1_OE__2__dflt: 1
+CLK1_OE__3: 1|*
+CLK1_OE__3__dflt: 1
+CLK1_OS__0: 1|*
+CLK1_OS__0__dflt: 1
+CLK1_OS__1: 0|*
+CLK1_OS__1__dflt: 0
+CLK1_OS__2: 0|*
+CLK1_OS__2__dflt: 0
+CLK1_OS__3: 0|*
+CLK1_OS__3__dflt: 0
+CLK1_PWR_SEL__0: 0|L
+CLK1_PWR_SEL__0__dflt: 3
+CLK1_PWR_SEL__1: 3|*
+CLK1_PWR_SEL__1__dflt: 3
+CLK1_PWR_SEL__2: 3|*
+CLK1_PWR_SEL__2__dflt: 3
+CLK1_PWR_SEL__3: 3|*
+CLK1_PWR_SEL__3__dflt: 3
+CLK1_R_TRIM: 5|*
+CLK1_R_TRIM__dflt: 5
+CLK1_SLEW__0: 3|*
+CLK1_SLEW__0__dflt: 3
+CLK1_SLEW__1: 3|*
+CLK1_SLEW__1__dflt: 3
+CLK1_SLEW__2: 3|*
+CLK1_SLEW__2__dflt: 3
+CLK1_SLEW__3: 3|*
+CLK1_SLEW__3__dflt: 3
+CLK1_SLEW_DIFF__0: 0|*
+CLK1_SLEW_DIFF__0__dflt: 0
+CLK1_SLEW_DIFF__1: 0|*
+CLK1_SLEW_DIFF__1__dflt: 0
+CLK1_SLEW_DIFF__2: 0|*
+CLK1_SLEW_DIFF__2__dflt: 0
+CLK1_SLEW_DIFF__3: 0|*
+CLK1_SLEW_DIFF__3__dflt: 0
+CLK10K_PROBE: 0|*
+CLK10K_PROBE__dflt: 0
+CLK2_AMP: 4|*
+CLK2_AMP__dflt: 4
+CLK2_AMUXEN2__0: 0|*
+CLK2_AMUXEN2__0__dflt: 0
+CLK2_AMUXEN2__1: 0|*
+CLK2_AMUXEN2__1__dflt: 0
+CLK2_AMUXEN2__2: 0|*
+CLK2_AMUXEN2__2__dflt: 0
+CLK2_AMUXEN2__3: 0|*
+CLK2_AMUXEN2__3__dflt: 0
+CLK2_CFG__0: 3|*
+CLK2_CFG__0__dflt: 3
+CLK2_CFG__1: 1|*
+CLK2_CFG__1__dflt: 1
+CLK2_CFG__2: 1|*
+CLK2_CFG__2__dflt: 1
+CLK2_CFG__3: 1|*
+CLK2_CFG__3__dflt: 1
+CLK2_Manual__0: False|*
+CLK2_Manual__0__dflt: False
+CLK2_Manual__1: False|*
+CLK2_Manual__1__dflt: False
+CLK2_Manual__2: False|*
+CLK2_Manual__2__dflt: False
+CLK2_Manual__3: False|*
+CLK2_Manual__3__dflt: False
+Clk2_NameA__0: |*
+Clk2_NameA__0__dflt: 
+Clk2_NameA__1: |*
+Clk2_NameA__1__dflt: 
+Clk2_NameA__2: |*
+Clk2_NameA__2__dflt: 
+Clk2_NameA__3: |*
+Clk2_NameA__3__dflt: 
+Clk2_NameB__0: |*
+Clk2_NameB__0__dflt: 
+Clk2_NameB__1: |*
+Clk2_NameB__1__dflt: 
+Clk2_NameB__2: |*
+Clk2_NameB__2__dflt: 
+Clk2_NameB__3: |*
+Clk2_NameB__3__dflt: 
+CLK2_OE__0: 1|*
+CLK2_OE__0__dflt: 1
+CLK2_OE__1: 1|*
+CLK2_OE__1__dflt: 1
+CLK2_OE__2: 1|*
+CLK2_OE__2__dflt: 1
+CLK2_OE__3: 1|*
+CLK2_OE__3__dflt: 1
+CLK2_OS__0: 1|*
+CLK2_OS__0__dflt: 1
+CLK2_OS__1: 0|*
+CLK2_OS__1__dflt: 0
+CLK2_OS__2: 0|*
+CLK2_OS__2__dflt: 0
+CLK2_OS__3: 0|*
+CLK2_OS__3__dflt: 0
+CLK2_PWR_SEL__0: 0|L
+CLK2_PWR_SEL__0__dflt: 3
+CLK2_PWR_SEL__1: 3|*
+CLK2_PWR_SEL__1__dflt: 3
+CLK2_PWR_SEL__2: 3|*
+CLK2_PWR_SEL__2__dflt: 3
+CLK2_PWR_SEL__3: 3|*
+CLK2_PWR_SEL__3__dflt: 3
+CLK2_R_TRIM: 5|*
+CLK2_R_TRIM__dflt: 5
+CLK2_SLEW__0: 3|*
+CLK2_SLEW__0__dflt: 3
+CLK2_SLEW__1: 3|*
+CLK2_SLEW__1__dflt: 3
+CLK2_SLEW__2: 3|*
+CLK2_SLEW__2__dflt: 3
+CLK2_SLEW__3: 3|*
+CLK2_SLEW__3__dflt: 3
+CLK2_SLEW_DIFF__0: 0|*
+CLK2_SLEW_DIFF__0__dflt: 0
+CLK2_SLEW_DIFF__1: 0|*
+CLK2_SLEW_DIFF__1__dflt: 0
+CLK2_SLEW_DIFF__2: 0|*
+CLK2_SLEW_DIFF__2__dflt: 0
+CLK2_SLEW_DIFF__3: 0|*
+CLK2_SLEW_DIFF__3__dflt: 0
+CLK3_AMP: 4|*
+CLK3_AMP__dflt: 4
+CLK3_AMUXEN2__0: 0|*
+CLK3_AMUXEN2__0__dflt: 0
+CLK3_AMUXEN2__1: 0|*
+CLK3_AMUXEN2__1__dflt: 0
+CLK3_AMUXEN2__2: 0|*
+CLK3_AMUXEN2__2__dflt: 0
+CLK3_AMUXEN2__3: 0|*
+CLK3_AMUXEN2__3__dflt: 0
+CLK3_CFG__0: 3|*
+CLK3_CFG__0__dflt: 3
+CLK3_CFG__1: 1|*
+CLK3_CFG__1__dflt: 1
+CLK3_CFG__2: 1|*
+CLK3_CFG__2__dflt: 1
+CLK3_CFG__3: 1|*
+CLK3_CFG__3__dflt: 1
+CLK3_Manual__0: False|*
+CLK3_Manual__0__dflt: False
+CLK3_Manual__1: False|*
+CLK3_Manual__1__dflt: False
+CLK3_Manual__2: False|*
+CLK3_Manual__2__dflt: False
+CLK3_Manual__3: False|*
+CLK3_Manual__3__dflt: False
+Clk3_NameA__0: |*
+Clk3_NameA__0__dflt: 
+Clk3_NameA__1: |*
+Clk3_NameA__1__dflt: 
+Clk3_NameA__2: |*
+Clk3_NameA__2__dflt: 
+Clk3_NameA__3: |*
+Clk3_NameA__3__dflt: 
+Clk3_NameB__0: |*
+Clk3_NameB__0__dflt: 
+Clk3_NameB__1: |*
+Clk3_NameB__1__dflt: 
+Clk3_NameB__2: |*
+Clk3_NameB__2__dflt: 
+Clk3_NameB__3: |*
+Clk3_NameB__3__dflt: 
+CLK3_OE__0: 1|*
+CLK3_OE__0__dflt: 1
+CLK3_OE__1: 1|*
+CLK3_OE__1__dflt: 1
+CLK3_OE__2: 1|*
+CLK3_OE__2__dflt: 1
+CLK3_OE__3: 1|*
+CLK3_OE__3__dflt: 1
+CLK3_OS__0: 1|*
+CLK3_OS__0__dflt: 1
+CLK3_OS__1: 0|*
+CLK3_OS__1__dflt: 0
+CLK3_OS__2: 0|*
+CLK3_OS__2__dflt: 0
+CLK3_OS__3: 0|*
+CLK3_OS__3__dflt: 0
+CLK3_PWR_SEL__0: 0|L
+CLK3_PWR_SEL__0__dflt: 3
+CLK3_PWR_SEL__1: 3|*
+CLK3_PWR_SEL__1__dflt: 3
+CLK3_PWR_SEL__2: 3|*
+CLK3_PWR_SEL__2__dflt: 3
+CLK3_PWR_SEL__3: 3|*
+CLK3_PWR_SEL__3__dflt: 3
+CLK3_R_TRIM: 5|*
+CLK3_R_TRIM__dflt: 5
+CLK3_SLEW__0: 3|*
+CLK3_SLEW__0__dflt: 3
+CLK3_SLEW__1: 3|*
+CLK3_SLEW__1__dflt: 3
+CLK3_SLEW__2: 3|*
+CLK3_SLEW__2__dflt: 3
+CLK3_SLEW__3: 3|*
+CLK3_SLEW__3__dflt: 3
+CLK3_SLEW_DIFF__0: 0|*
+CLK3_SLEW_DIFF__0__dflt: 0
+CLK3_SLEW_DIFF__1: 0|*
+CLK3_SLEW_DIFF__1__dflt: 0
+CLK3_SLEW_DIFF__2: 0|*
+CLK3_SLEW_DIFF__2__dflt: 0
+CLK3_SLEW_DIFF__3: 0|*
+CLK3_SLEW_DIFF__3__dflt: 0
+CLK4_AMP: 4|*
+CLK4_AMP__dflt: 4
+CLK4_AMUXEN2__0: 0|*
+CLK4_AMUXEN2__0__dflt: 0
+CLK4_AMUXEN2__1: 0|*
+CLK4_AMUXEN2__1__dflt: 0
+CLK4_AMUXEN2__2: 0|*
+CLK4_AMUXEN2__2__dflt: 0
+CLK4_AMUXEN2__3: 0|*
+CLK4_AMUXEN2__3__dflt: 0
+CLK4_CFG__0: 3|*
+CLK4_CFG__0__dflt: 3
+CLK4_CFG__1: 1|*
+CLK4_CFG__1__dflt: 1
+CLK4_CFG__2: 1|*
+CLK4_CFG__2__dflt: 1
+CLK4_CFG__3: 1|*
+CLK4_CFG__3__dflt: 1
+CLK4_Manual__0: False|*
+CLK4_Manual__0__dflt: False
+CLK4_Manual__1: False|*
+CLK4_Manual__1__dflt: False
+CLK4_Manual__2: False|*
+CLK4_Manual__2__dflt: False
+CLK4_Manual__3: False|*
+CLK4_Manual__3__dflt: False
+Clk4_NameA__0: |*
+Clk4_NameA__0__dflt: 
+Clk4_NameA__1: |*
+Clk4_NameA__1__dflt: 
+Clk4_NameA__2: |*
+Clk4_NameA__2__dflt: 
+Clk4_NameA__3: |*
+Clk4_NameA__3__dflt: 
+Clk4_NameB__0: |*
+Clk4_NameB__0__dflt: 
+Clk4_NameB__1: |*
+Clk4_NameB__1__dflt: 
+Clk4_NameB__2: |*
+Clk4_NameB__2__dflt: 
+Clk4_NameB__3: |*
+Clk4_NameB__3__dflt: 
+CLK4_OE__0: 1|*
+CLK4_OE__0__dflt: 1
+CLK4_OE__1: 1|*
+CLK4_OE__1__dflt: 1
+CLK4_OE__2: 1|*
+CLK4_OE__2__dflt: 1
+CLK4_OE__3: 1|*
+CLK4_OE__3__dflt: 1
+CLK4_OS__0: 1|*
+CLK4_OS__0__dflt: 1
+CLK4_OS__1: 0|*
+CLK4_OS__1__dflt: 0
+CLK4_OS__2: 0|*
+CLK4_OS__2__dflt: 0
+CLK4_OS__3: 0|*
+CLK4_OS__3__dflt: 0
+CLK4_PWR_SEL__0: 0|L
+CLK4_PWR_SEL__0__dflt: 3
+CLK4_PWR_SEL__1: 3|*
+CLK4_PWR_SEL__1__dflt: 3
+CLK4_PWR_SEL__2: 3|*
+CLK4_PWR_SEL__2__dflt: 3
+CLK4_PWR_SEL__3: 3|*
+CLK4_PWR_SEL__3__dflt: 3
+CLK4_R_TRIM: 5|*
+CLK4_R_TRIM__dflt: 5
+CLK4_SLEW__0: 3|*
+CLK4_SLEW__0__dflt: 3
+CLK4_SLEW__1: 3|*
+CLK4_SLEW__1__dflt: 3
+CLK4_SLEW__2: 3|*
+CLK4_SLEW__2__dflt: 3
+CLK4_SLEW__3: 3|*
+CLK4_SLEW__3__dflt: 3
+CLK4_SLEW_DIFF__0: 0|*
+CLK4_SLEW_DIFF__0__dflt: 0
+CLK4_SLEW_DIFF__1: 0|*
+CLK4_SLEW_DIFF__1__dflt: 0
+CLK4_SLEW_DIFF__2: 0|*
+CLK4_SLEW_DIFF__2__dflt: 0
+CLK4_SLEW_DIFF__3: 0|*
+CLK4_SLEW_DIFF__3__dflt: 0
+CLKG_CFG__0: 5|*
+CLKG_CFG__0__dflt: 5
+CLKG_CFG__1: 5|*
+CLKG_CFG__1__dflt: 5
+CLKG_CFG__2: 5|*
+CLKG_CFG__2__dflt: 5
+CLKG_CFG__3: 5|*
+CLKG_CFG__3__dflt: 5
+CLKG_OE__0: True|*
+CLKG_OE__0__dflt: True
+CLKG_OE__1: True|*
+CLKG_OE__1__dflt: True
+CLKG_OE__2: True|*
+CLKG_OE__2__dflt: True
+CLKG_OE__3: True|*
+CLKG_OE__3__dflt: True
+CLKG_OS: False|*
+CLKG_OS__dflt: False
+CLKG_PWR_SEL__0: 3|*
+CLKG_PWR_SEL__0__dflt: 3
+CLKG_PWR_SEL__1: 3|*
+CLKG_PWR_SEL__1__dflt: 3
+CLKG_PWR_SEL__2: 3|*
+CLKG_PWR_SEL__2__dflt: 3
+CLKG_PWR_SEL__3: 3|*
+CLKG_PWR_SEL__3__dflt: 3
+CLKG_SLEW__0: 3|*
+CLKG_SLEW__0__dflt: 3
+CLKG_SLEW__1: 3|*
+CLKG_SLEW__1__dflt: 3
+CLKG_SLEW__2: 3|*
+CLKG_SLEW__2__dflt: 3
+CLKG_SLEW__3: 3|*
+CLKG_SLEW__3__dflt: 3
+CLKOK1024__0: 0|*
+CLKOK1024__0__dflt: 0
+CLKOK1024__1: 0|*
+CLKOK1024__1__dflt: 0
+CLKOK1024__2: 0|*
+CLKOK1024__2__dflt: 0
+CLKOK1024__3: 0|*
+CLKOK1024__3__dflt: 0
+CNF_AFC__0: 4|*
+CNF_AFC__0__dflt: 4
+CNF_AFC__1: 4|*
+CNF_AFC__1__dflt: 4
+CNF_AFC__2: 4|*
+CNF_AFC__2__dflt: 4
+CNF_AFC__3: 4|*
+CNF_AFC__3__dflt: 4
+CNF_C3__0: 0|*
+CNF_C3__0__dflt: 0
+CNF_C3__1: 0|*
+CNF_C3__1__dflt: 0
+CNF_C3__2: 0|*
+CNF_C3__2__dflt: 0
+CNF_C3__3: 0|*
+CNF_C3__3__dflt: 0
+CNF_C3_SV__0: 0|*
+CNF_C3_SV__0__dflt: 0
+CNF_C3_SV__1: 0|*
+CNF_C3_SV__1__dflt: 0
+CNF_C3_SV__2: 0|*
+CNF_C3_SV__2__dflt: 0
+CNF_C3_SV__3: 0|*
+CNF_C3_SV__3__dflt: 0
+CNF_CP__0: 15|*
+CNF_CP__0__dflt: 15
+CNF_CP__1: 15|*
+CNF_CP__1__dflt: 15
+CNF_CP__2: 15|*
+CNF_CP__2__dflt: 15
+CNF_CP__3: 15|*
+CNF_CP__3__dflt: 15
+CNF_CP_SV__0: 15|*
+CNF_CP_SV__0__dflt: 15
+CNF_CP_SV__1: 15|*
+CNF_CP_SV__1__dflt: 15
+CNF_CP_SV__2: 15|*
+CNF_CP_SV__2__dflt: 15
+CNF_CP_SV__3: 15|*
+CNF_CP_SV__3__dflt: 15
+CNF_PDFDLY__0: 0|*
+CNF_PDFDLY__0__dflt: 0
+CNF_PDFDLY__1: 0|*
+CNF_PDFDLY__1__dflt: 0
+CNF_PDFDLY__2: 0|*
+CNF_PDFDLY__2__dflt: 0
+CNF_PDFDLY__3: 0|*
+CNF_PDFDLY__3__dflt: 0
+CNF_R3__0: 0|*
+CNF_R3__0__dflt: 0
+CNF_R3__1: 0|*
+CNF_R3__1__dflt: 0
+CNF_R3__2: 0|*
+CNF_R3__2__dflt: 0
+CNF_R3__3: 0|*
+CNF_R3__3__dflt: 0
+CNF_R3_SV__0: 0|*
+CNF_R3_SV__0__dflt: 0
+CNF_R3_SV__1: 0|*
+CNF_R3_SV__1__dflt: 0
+CNF_R3_SV__2: 0|*
+CNF_R3_SV__2__dflt: 0
+CNF_R3_SV__3: 0|*
+CNF_R3_SV__3__dflt: 0
+CNF_VCO_BIAS__0: 3|*
+CNF_VCO_BIAS__0__dflt: 3
+CNF_VCO_BIAS__1: 3|*
+CNF_VCO_BIAS__1__dflt: 3
+CNF_VCO_BIAS__2: 3|*
+CNF_VCO_BIAS__2__dflt: 3
+CNF_VCO_BIAS__3: 3|*
+CNF_VCO_BIAS__3__dflt: 3
+CNF_VREF_VCO__0: 3|*
+CNF_VREF_VCO__0__dflt: 3
+CNF_VREF_VCO__1: 3|*
+CNF_VREF_VCO__1__dflt: 3
+CNF_VREF_VCO__2: 3|*
+CNF_VREF_VCO__2__dflt: 3
+CNF_VREF_VCO__3: 3|*
+CNF_VREF_VCO__3__dflt: 3
+CNF_VREG__0: 0|*
+CNF_VREG__0__dflt: 0
+CNF_VREG__1: 0|*
+CNF_VREG__1__dflt: 0
+CNF_VREG__2: 0|*
+CNF_VREG__2__dflt: 0
+CNF_VREG__3: 0|*
+CNF_VREG__3__dflt: 0
+CNF_VREG_FOD1__0: 0|*
+CNF_VREG_FOD1__0__dflt: 0
+CNF_VREG_FOD1__1: |*
+CNF_VREG_FOD1__1__dflt: 
+CNF_VREG_FOD1__2: |*
+CNF_VREG_FOD1__2__dflt: 
+CNF_VREG_FOD1__3: |*
+CNF_VREG_FOD1__3__dflt: 
+CNF_VREG_FOD2__0: 0|*
+CNF_VREG_FOD2__0__dflt: 0
+CNF_VREG_FOD2__1: |*
+CNF_VREG_FOD2__1__dflt: 
+CNF_VREG_FOD2__2: |*
+CNF_VREG_FOD2__2__dflt: 
+CNF_VREG_FOD2__3: |*
+CNF_VREG_FOD2__3__dflt: 
+CNF_VREG_FOD3__0: 0|*
+CNF_VREG_FOD3__0__dflt: 0
+CNF_VREG_FOD3__1: |*
+CNF_VREG_FOD3__1__dflt: 
+CNF_VREG_FOD3__2: |*
+CNF_VREG_FOD3__2__dflt: 
+CNF_VREG_FOD3__3: |*
+CNF_VREG_FOD3__3__dflt: 
+CNF_VREG_FOD4__0: 0|*
+CNF_VREG_FOD4__0__dflt: 0
+CNF_VREG_FOD4__1: |*
+CNF_VREG_FOD4__1__dflt: 
+CNF_VREG_FOD4__2: |*
+CNF_VREG_FOD4__2__dflt: 
+CNF_VREG_FOD4__3: |*
+CNF_VREG_FOD4__3__dflt: 
+cnf_vreg_sdmi2c: 2|*
+cnf_vreg_sdmi2c__dflt: 2
+cnf_vreg_sync: 1|*
+cnf_vreg_sync__dflt: 1
+cnf_vreg_xtal__0: 0|*
+cnf_vreg_xtal__0__dflt: 0
+cnf_vreg_xtal__1: 0|*
+cnf_vreg_xtal__1__dflt: 0
+cnf_vreg_xtal__2: 0|*
+cnf_vreg_xtal__2__dflt: 0
+cnf_vreg_xtal__3: 0|*
+cnf_vreg_xtal__3__dflt: 0
+Comments: |*
+Comments__dflt: 
+CompanyName: |*
+CompanyName__dflt: 
+CONFIG_LOAD_SELECT: 0|L
+CONFIG_LOAD_SELECT__dflt: 0
+CONFIGURATION_OPTIMIZED__0: False|*
+CONFIGURATION_OPTIMIZED__0__dflt: False
+CONFIGURATION_OPTIMIZED__1: False|*
+CONFIGURATION_OPTIMIZED__1__dflt: False
+CONFIGURATION_OPTIMIZED__2: False|*
+CONFIGURATION_OPTIMIZED__2__dflt: False
+CONFIGURATION_OPTIMIZED__3: False|*
+CONFIGURATION_OPTIMIZED__3__dflt: False
+Crit1__0: False|*
+Crit1__0__dflt: False
+Crit1__1: False|*
+Crit1__1__dflt: False
+Crit1__2: False|*
+Crit1__2__dflt: False
+Crit1__3: False|*
+Crit1__3__dflt: False
+Crit2__0: False|*
+Crit2__0__dflt: False
+Crit2__1: False|*
+Crit2__1__dflt: False
+Crit2__2: False|*
+Crit2__2__dflt: False
+Crit2__3: False|*
+Crit2__3__dflt: False
+Crit3__0: False|*
+Crit3__0__dflt: False
+Crit3__1: False|*
+Crit3__1__dflt: False
+Crit3__2: False|*
+Crit3__2__dflt: False
+Crit3__3: False|*
+Crit3__3__dflt: False
+Crit4__0: False|*
+Crit4__0__dflt: False
+Crit4__1: False|*
+Crit4__1__dflt: False
+Crit4__2: False|*
+Crit4__2__dflt: False
+Crit4__3: False|*
+Crit4__3__dflt: False
+CriticalOutputActual__0: 52.0000000551012|*
+CriticalOutputActual__0__dflt: 52.0000000551012
+CriticalOutputActual__1: 0|*
+CriticalOutputActual__1__dflt: 0
+CriticalOutputActual__2: 0|*
+CriticalOutputActual__2__dflt: 0
+CriticalOutputActual__3: 0|*
+CriticalOutputActual__3__dflt: 0
+CriticalOutputError__0: +1ppb|*
+CriticalOutputError__0__dflt: +1ppb
+CriticalOutputError__1:  |*
+CriticalOutputError__1__dflt:  
+CriticalOutputError__2:  |*
+CriticalOutputError__2__dflt:  
+CriticalOutputError__3:  |*
+CriticalOutputError__3__dflt:  
+CriticalOutputTarget__0: 52|*
+CriticalOutputTarget__0__dflt: 52
+CriticalOutputTarget__1: 0|*
+CriticalOutputTarget__1__dflt: 0
+CriticalOutputTarget__2: 0|*
+CriticalOutputTarget__2__dflt: 0
+CriticalOutputTarget__3: 0|*
+CriticalOutputTarget__3__dflt: 0
+CSR_BN_ADDR: 1|*
+CSR_BN_ADDR__dflt: 1
+CSR_RD_ADDR: 1|*
+CSR_RD_ADDR__dflt: 1
+CurrentConfiguration: 0|L
+CurrentConfiguration__dflt: 
+DashCode: |*
+DashCode__dflt: 
+DefaultedOS0__0: 1|*
+DefaultedOS0__0__dflt: 1
+DefaultedOS0__1: 1|*
+DefaultedOS0__1__dflt: 1
+DefaultedOS0__2: 1|*
+DefaultedOS0__2__dflt: 1
+DefaultedOS0__3: 1|*
+DefaultedOS0__3__dflt: 1
+DefaultedOS1__0: 1|*
+DefaultedOS1__0__dflt: 1
+DefaultedOS1__1: 1|*
+DefaultedOS1__1__dflt: 1
+DefaultedOS1__2: 1|*
+DefaultedOS1__2__dflt: 1
+DefaultedOS1__3: 1|*
+DefaultedOS1__3__dflt: 1
+DefaultedOS2__0: 1|*
+DefaultedOS2__0__dflt: 1
+DefaultedOS2__1: 1|*
+DefaultedOS2__1__dflt: 1
+DefaultedOS2__2: 1|*
+DefaultedOS2__2__dflt: 1
+DefaultedOS2__3: 1|*
+DefaultedOS2__3__dflt: 1
+DefaultedOS3__0: 1|*
+DefaultedOS3__0__dflt: 1
+DefaultedOS3__1: 1|*
+DefaultedOS3__1__dflt: 1
+DefaultedOS3__2: 1|*
+DefaultedOS3__2__dflt: 1
+DefaultedOS3__3: 1|*
+DefaultedOS3__3__dflt: 1
+DefaultedOS4__0: 1|*
+DefaultedOS4__0__dflt: 1
+DefaultedOS4__1: 1|*
+DefaultedOS4__1__dflt: 1
+DefaultedOS4__2: 1|*
+DefaultedOS4__2__dflt: 1
+DefaultedOS4__3: 1|*
+DefaultedOS4__3__dflt: 1
+DEV_ADDR: 1|*
+DEV_ADDR__dflt: 1
+DEV_ADDR_OTP: True|*
+DEV_ADDR_OTP__dflt: True
+DISP_BANDWIDTH__0: 370.68 KHz|*
+DISP_BANDWIDTH__0__dflt: 370.68 KHz
+DISP_BANDWIDTH__1: 389.94 KHz|*
+DISP_BANDWIDTH__1__dflt: 389.94 KHz
+DISP_BANDWIDTH__2: 389.94 KHz|*
+DISP_BANDWIDTH__2__dflt: 389.94 KHz
+DISP_BANDWIDTH__3: 389.94 KHz|*
+DISP_BANDWIDTH__3__dflt: 389.94 KHz
+DISP_BANDWITH_RATIO__0: 134.89|*
+DISP_BANDWITH_RATIO__0__dflt: 134.89
+DISP_BANDWITH_RATIO__1: 128.22|*
+DISP_BANDWITH_RATIO__1__dflt: 128.22
+DISP_BANDWITH_RATIO__2: 128.22|*
+DISP_BANDWITH_RATIO__2__dflt: 128.22
+DISP_BANDWITH_RATIO__3: 128.22|*
+DISP_BANDWITH_RATIO__3__dflt: 128.22
+DISP_MIN_FREQ_RATIO__0: 40.00|*
+DISP_MIN_FREQ_RATIO__0__dflt: 40
+DISP_MIN_FREQ_RATIO__1: 37.04|*
+DISP_MIN_FREQ_RATIO__1__dflt: 37.04
+DISP_MIN_FREQ_RATIO__2: 37.04|*
+DISP_MIN_FREQ_RATIO__2__dflt: 37.04
+DISP_MIN_FREQ_RATIO__3: 37.04|*
+DISP_MIN_FREQ_RATIO__3__dflt: 37.04
+DISP_PEAKDB__0:  3.67|*
+DISP_PEAKDB__0__dflt: 3.67
+DISP_PEAKDB__1: 3.5|*
+DISP_PEAKDB__1__dflt: 3.5
+DISP_PEAKDB__2: 3.5|*
+DISP_PEAKDB__2__dflt: 3.5
+DISP_PEAKDB__3: 3.5|*
+DISP_PEAKDB__3__dflt: 3.5
+DISP_PHASE_MARGIN__0: 47.79|*
+DISP_PHASE_MARGIN__0__dflt: 47.79
+DISP_PHASE_MARGIN__1: 49.8|*
+DISP_PHASE_MARGIN__1__dflt: 49.8
+DISP_PHASE_MARGIN__2: 49.8|*
+DISP_PHASE_MARGIN__2__dflt: 49.8
+DISP_PHASE_MARGIN__3: 49.8|*
+DISP_PHASE_MARGIN__3__dflt: 49.8
+DITHER_GAIN_CFG__0: 0|*
+DITHER_GAIN_CFG__0__dflt: 0
+DITHER_GAIN_CFG__1: 0|*
+DITHER_GAIN_CFG__1__dflt: 0
+DITHER_GAIN_CFG__2: 0|*
+DITHER_GAIN_CFG__2__dflt: 0
+DITHER_GAIN_CFG__3: 0|*
+DITHER_GAIN_CFG__3__dflt: 0
+DIV_CTRL_1__0: False|*
+DIV_CTRL_1__0__dflt: False
+DIV_CTRL_1__1: False|*
+DIV_CTRL_1__1__dflt: False
+DIV_CTRL_1__2: False|*
+DIV_CTRL_1__2__dflt: False
+DIV_CTRL_1__3: False|*
+DIV_CTRL_1__3__dflt: False
+DIV_CTRL_2__0: False|*
+DIV_CTRL_2__0__dflt: False
+DIV_CTRL_2__1: False|*
+DIV_CTRL_2__1__dflt: False
+DIV_CTRL_2__2: False|*
+DIV_CTRL_2__2__dflt: False
+DIV_CTRL_2__3: False|*
+DIV_CTRL_2__3__dflt: False
+DIV_CTRL_3__0: False|*
+DIV_CTRL_3__0__dflt: False
+DIV_CTRL_3__1: False|*
+DIV_CTRL_3__1__dflt: False
+DIV_CTRL_3__2: False|*
+DIV_CTRL_3__2__dflt: False
+DIV_CTRL_3__3: False|*
+DIV_CTRL_3__3__dflt: False
+DIV_CTRL_4__0: False|*
+DIV_CTRL_4__0__dflt: False
+DIV_CTRL_4__1: False|*
+DIV_CTRL_4__1__dflt: False
+DIV_CTRL_4__2: False|*
+DIV_CTRL_4__2__dflt: False
+DIV_CTRL_4__3: False|*
+DIV_CTRL_4__3__dflt: False
+DIVN_CHANG: 0|*
+DIVN_CHANG__dflt: 0
+EEPROMCrcPolynomial: 213|*
+EEPROMCrcPolynomial__dflt: 213
+EEPROMPadding: 0|*
+EEPROMPadding__dflt: 0
+EN_ANA_TEST: 1|*
+EN_ANA_TEST__dflt: 1
+EN_BUFIN__0: 0|*
+EN_BUFIN__0__dflt: 0
+EN_BUFIN__1: 0|*
+EN_BUFIN__1__dflt: 0
+EN_BUFIN__2: 0|*
+EN_BUFIN__2__dflt: 0
+EN_BUFIN__3: 0|*
+EN_BUFIN__3__dflt: 0
+EN_BUFIN_76: 1|*
+EN_BUFIN_76__dflt: 1
+EN_CLKBUF1__0: 1|*
+EN_CLKBUF1__0__dflt: 1
+EN_CLKBUF1__1: 0|*
+EN_CLKBUF1__1__dflt: 0
+EN_CLKBUF1__2: 0|*
+EN_CLKBUF1__2__dflt: 0
+EN_CLKBUF1__3: 0|*
+EN_CLKBUF1__3__dflt: 0
+EN_CLKBUF2__0: 1|*
+EN_CLKBUF2__0__dflt: 1
+EN_CLKBUF2__1: 0|*
+EN_CLKBUF2__1__dflt: 0
+EN_CLKBUF2__2: 0|*
+EN_CLKBUF2__2__dflt: 0
+EN_CLKBUF2__3: 0|*
+EN_CLKBUF2__3__dflt: 0
+EN_CLKBUF3__0: 1|*
+EN_CLKBUF3__0__dflt: 1
+EN_CLKBUF3__1: 0|*
+EN_CLKBUF3__1__dflt: 0
+EN_CLKBUF3__2: 0|*
+EN_CLKBUF3__2__dflt: 0
+EN_CLKBUF3__3: 0|*
+EN_CLKBUF3__3__dflt: 0
+EN_CLKBUF4__0: 1|*
+EN_CLKBUF4__0__dflt: 1
+EN_CLKBUF4__1: 0|*
+EN_CLKBUF4__1__dflt: 0
+EN_CLKBUF4__2: 0|*
+EN_CLKBUF4__2__dflt: 0
+EN_CLKBUF4__3: 0|*
+EN_CLKBUF4__3__dflt: 0
+EN_CP__0: 1|*
+EN_CP__0__dflt: 1
+EN_CP__1: 1|*
+EN_CP__1__dflt: 1
+EN_CP__2: 1|*
+EN_CP__2__dflt: 1
+EN_CP__3: 1|*
+EN_CP__3__dflt: 1
+EN_FD__0: 1|*
+EN_FD__0__dflt: 1
+EN_FD__1: 1|*
+EN_FD__1__dflt: 1
+EN_FD__2: 1|*
+EN_FD__2__dflt: 1
+EN_FD__3: 1|*
+EN_FD__3__dflt: 1
+EN_GLOBAL_SHUTDOWN__0: 0|*
+EN_GLOBAL_SHUTDOWN__0__dflt: 0
+EN_GLOBAL_SHUTDOWN__1: 0|*
+EN_GLOBAL_SHUTDOWN__1__dflt: 0
+EN_GLOBAL_SHUTDOWN__2: 0|*
+EN_GLOBAL_SHUTDOWN__2__dflt: 0
+EN_GLOBAL_SHUTDOWN__3: 0|*
+EN_GLOBAL_SHUTDOWN__3__dflt: 0
+EN_MASH_VREG: 1|*
+EN_MASH_VREG__dflt: 1
+EN_MEMS_VREG: 1|*
+EN_MEMS_VREG__dflt: 1
+EN_OLD_OTP: False|*
+EN_OLD_OTP__dflt: False
+EN_PI_OUT_CAP_1__0: 0|*
+EN_PI_OUT_CAP_1__0__dflt: 0
+EN_PI_OUT_CAP_1__1: 0|*
+EN_PI_OUT_CAP_1__1__dflt: 0
+EN_PI_OUT_CAP_1__2: 0|*
+EN_PI_OUT_CAP_1__2__dflt: 0
+EN_PI_OUT_CAP_1__3: 0|*
+EN_PI_OUT_CAP_1__3__dflt: 0
+EN_PI_OUT_CAP_2__0: 0|*
+EN_PI_OUT_CAP_2__0__dflt: 0
+EN_PI_OUT_CAP_2__1: 0|*
+EN_PI_OUT_CAP_2__1__dflt: 0
+EN_PI_OUT_CAP_2__2: 0|*
+EN_PI_OUT_CAP_2__2__dflt: 0
+EN_PI_OUT_CAP_2__3: 0|*
+EN_PI_OUT_CAP_2__3__dflt: 0
+EN_PI_OUT_CAP_3__0: 0|*
+EN_PI_OUT_CAP_3__0__dflt: 0
+EN_PI_OUT_CAP_3__1: 0|*
+EN_PI_OUT_CAP_3__1__dflt: 0
+EN_PI_OUT_CAP_3__2: 0|*
+EN_PI_OUT_CAP_3__2__dflt: 0
+EN_PI_OUT_CAP_3__3: 0|*
+EN_PI_OUT_CAP_3__3__dflt: 0
+EN_PI_OUT_CAP_4__0: 0|*
+EN_PI_OUT_CAP_4__0__dflt: 0
+EN_PI_OUT_CAP_4__1: 0|*
+EN_PI_OUT_CAP_4__1__dflt: 0
+EN_PI_OUT_CAP_4__2: 0|*
+EN_PI_OUT_CAP_4__2__dflt: 0
+EN_PI_OUT_CAP_4__3: 0|*
+EN_PI_OUT_CAP_4__3__dflt: 0
+EN_PLL_BIAS__0: 1|*
+EN_PLL_BIAS__0__dflt: 1
+EN_PLL_BIAS__1: 1|*
+EN_PLL_BIAS__1__dflt: 1
+EN_PLL_BIAS__2: 1|*
+EN_PLL_BIAS__2__dflt: 1
+EN_PLL_BIAS__3: 1|*
+EN_PLL_BIAS__3__dflt: 1
+EN_PLL_TEST: 0|*
+EN_PLL_TEST__dflt: 0
+EN_REFMODE__0: 0|*
+EN_REFMODE__0__dflt: 0
+EN_REFMODE__1: 0|*
+EN_REFMODE__1__dflt: 0
+EN_REFMODE__2: 0|*
+EN_REFMODE__2__dflt: 0
+EN_REFMODE__3: 0|*
+EN_REFMODE__3__dflt: 0
+EN_SYNC_VREG_test: 0|*
+EN_SYNC_VREG_test__dflt: 0
+EN_TEST_OUT: 0|*
+EN_TEST_OUT__dflt: 0
+EN_VCO__0: 1|*
+EN_VCO__0__dflt: 1
+EN_VCO__1: 1|*
+EN_VCO__1__dflt: 1
+EN_VCO__2: 1|*
+EN_VCO__2__dflt: 1
+EN_VCO__3: 1|*
+EN_VCO__3__dflt: 1
+EN_VREF: 0|*
+EN_VREF__dflt: 0
+EN_XTAL__0: 1|*
+EN_XTAL__0__dflt: 1
+EN_XTAL__1: 1|*
+EN_XTAL__1__dflt: 1
+EN_XTAL__2: 1|*
+EN_XTAL__2__dflt: 1
+EN_XTAL__3: 1|*
+EN_XTAL__3__dflt: 1
+EN_XTAL_76: 1|*
+EN_XTAL_76__dflt: 1
+EN_XTAL_VREG: 1|*
+EN_XTAL_VREG__dflt: 1
+ENABLE_BETA_COMP: 0|*
+ENABLE_BETA_COMP__dflt: 0
+ENbit7: 1|*
+ENbit7__dflt: 1
+ENbit8: 1|*
+ENbit8__dflt: 1
+FB_CLK_PROBE: 0|*
+FB_CLK_PROBE__dflt: 0
+FB_DIV_CTRL__0: False|*
+FB_DIV_CTRL__0__dflt: False
+FB_DIV_CTRL__1: False|*
+FB_DIV_CTRL__1__dflt: False
+FB_DIV_CTRL__2: False|*
+FB_DIV_CTRL__2__dflt: False
+FB_DIV_CTRL__3: False|*
+FB_DIV_CTRL__3__dflt: False
+FB_DIV_FRAC__0: |*
+FB_DIV_FRAC__0__dflt: 
+FB_DIV_FRAC__1: |*
+FB_DIV_FRAC__1__dflt: 
+FB_DIV_FRAC__2: |*
+FB_DIV_FRAC__2__dflt: 
+FB_DIV_FRAC__3: |*
+FB_DIV_FRAC__3__dflt: 
+FB_DIV_INT__0: |*
+FB_DIV_INT__0__dflt: 
+FB_DIV_INT__1: |*
+FB_DIV_INT__1__dflt: 
+FB_DIV_INT__2: |*
+FB_DIV_INT__2__dflt: 
+FB_DIV_INT__3: |*
+FB_DIV_INT__3__dflt: 
+FB_DIV_Min: |*
+FB_DIV_Min__dflt: 
+FB_DIV_REAL__0: 54|*
+FB_DIV_REAL__0__dflt: 54
+FB_DIV_REAL__1: 50|*
+FB_DIV_REAL__1__dflt: 50
+FB_DIV_REAL__2: 50|*
+FB_DIV_REAL__2__dflt: 50
+FB_DIV_REAL__3: 50|*
+FB_DIV_REAL__3__dflt: 50
+FB_DIV_REAL_SV__0: 54|*
+FB_DIV_REAL_SV__0__dflt: 54
+FB_DIV_REAL_SV__1: 50|*
+FB_DIV_REAL_SV__1__dflt: 50
+FB_DIV_REAL_SV__2: 50|*
+FB_DIV_REAL_SV__2__dflt: 50
+FB_DIV_REAL_SV__3: 50|*
+FB_DIV_REAL_SV__3__dflt: 50
+FB_FRCDIV__0: 0|*
+FB_FRCDIV__0__dflt: 0
+FB_FRCDIV__1: 0|*
+FB_FRCDIV__1__dflt: 0
+FB_FRCDIV__2: 0|*
+FB_FRCDIV__2__dflt: 0
+FB_FRCDIV__3: 0|*
+FB_FRCDIV__3__dflt: 0
+FB_INTDIV__0: 54|*
+FB_INTDIV__0__dflt: 54
+FB_INTDIV__1: 50|*
+FB_INTDIV__1__dflt: 50
+FB_INTDIV__2: 50|*
+FB_INTDIV__2__dflt: 50
+FB_INTDIV__3: 50|*
+FB_INTDIV__3__dflt: 50
+FEEBACK_DIVIDER_BIAS: 0|*
+FEEBACK_DIVIDER_BIAS__dflt: 0
+FirstFanout__0: False|*
+FirstFanout__0__dflt: False
+FirstFanout__1: False|*
+FirstFanout__1__dflt: False
+FirstFanout__2: False|*
+FirstFanout__2__dflt: False
+FirstFanout__3: False|*
+FirstFanout__3__dflt: False
+FirstLoop__0: True|*
+FirstLoop__0__dflt: True
+FirstLoop__1: True|*
+FirstLoop__1__dflt: True
+FirstLoop__2: True|*
+FirstLoop__2__dflt: True
+FirstLoop__3: True|*
+FirstLoop__3__dflt: True
+FixedADCGain__0: |*
+FixedADCGain__0__dflt: 
+FixedADCGain__1: |*
+FixedADCGain__1__dflt: 
+FixedADCGain__2: |*
+FixedADCGain__2__dflt: 
+FixedADCGain__3: |*
+FixedADCGain__3__dflt: 
+FORCE_EXTERNAL_VBE: 0|*
+FORCE_EXTERNAL_VBE__dflt: 0
+FORCE_EXTERNAL_VREF: 0|*
+FORCE_EXTERNAL_VREF__dflt: 0
+FoutBase1__0: |*
+FoutBase1__0__dflt: 
+FoutBase1__1: |*
+FoutBase1__1__dflt: 
+FoutBase1__2: |*
+FoutBase1__2__dflt: 
+FoutBase1__3: |*
+FoutBase1__3__dflt: 
+FoutBase2__0: |*
+FoutBase2__0__dflt: 
+FoutBase2__1: |*
+FoutBase2__1__dflt: 
+FoutBase2__2: |*
+FoutBase2__2__dflt: 
+FoutBase2__3: |*
+FoutBase2__3__dflt: 
+FoutBase3__0: |*
+FoutBase3__0__dflt: 
+FoutBase3__1: |*
+FoutBase3__1__dflt: 
+FoutBase3__2: |*
+FoutBase3__2__dflt: 
+FoutBase3__3: |*
+FoutBase3__3__dflt: 
+FoutBase4__0: |*
+FoutBase4__0__dflt: 
+FoutBase4__1: |*
+FoutBase4__1__dflt: 
+FoutBase4__2: |*
+FoutBase4__2__dflt: 
+FoutBase4__3: |*
+FoutBase4__3__dflt: 
+FoutDenom1__0: 1|*
+FoutDenom1__0__dflt: 1
+FoutDenom1__1: 1|*
+FoutDenom1__1__dflt: 1
+FoutDenom1__2: 1|*
+FoutDenom1__2__dflt: 1
+FoutDenom1__3: 1|*
+FoutDenom1__3__dflt: 1
+FoutDenom2__0: 1|*
+FoutDenom2__0__dflt: 1
+FoutDenom2__1: 1|*
+FoutDenom2__1__dflt: 1
+FoutDenom2__2: 1|*
+FoutDenom2__2__dflt: 1
+FoutDenom2__3: 1|*
+FoutDenom2__3__dflt: 1
+FoutDenom3__0: 1|*
+FoutDenom3__0__dflt: 1
+FoutDenom3__1: 1|*
+FoutDenom3__1__dflt: 1
+FoutDenom3__2: 1|*
+FoutDenom3__2__dflt: 1
+FoutDenom3__3: 1|*
+FoutDenom3__3__dflt: 1
+FoutDenom4__0: 1|*
+FoutDenom4__0__dflt: 1
+FoutDenom4__1: 1|*
+FoutDenom4__1__dflt: 1
+FoutDenom4__2: 1|*
+FoutDenom4__2__dflt: 1
+FoutDenom4__3: 1|*
+FoutDenom4__3__dflt: 1
+FoutNum1__0: 1|*
+FoutNum1__0__dflt: 1
+FoutNum1__1: 1|*
+FoutNum1__1__dflt: 1
+FoutNum1__2: 1|*
+FoutNum1__2__dflt: 1
+FoutNum1__3: 1|*
+FoutNum1__3__dflt: 1
+FoutNum2__0: 1|*
+FoutNum2__0__dflt: 1
+FoutNum2__1: 1|*
+FoutNum2__1__dflt: 1
+FoutNum2__2: 1|*
+FoutNum2__2__dflt: 1
+FoutNum2__3: 1|*
+FoutNum2__3__dflt: 1
+FoutNum3__0: 1|*
+FoutNum3__0__dflt: 1
+FoutNum3__1: 1|*
+FoutNum3__1__dflt: 1
+FoutNum3__2: 1|*
+FoutNum3__2__dflt: 1
+FoutNum3__3: 1|*
+FoutNum3__3__dflt: 1
+FoutNum4__0: 1|*
+FoutNum4__0__dflt: 1
+FoutNum4__1: 1|*
+FoutNum4__1__dflt: 1
+FoutNum4__2: 1|*
+FoutNum4__2__dflt: 1
+FoutNum4__3: 1|*
+FoutNum4__3__dflt: 1
+FracBaseClk__0: |*
+FracBaseClk__0__dflt: 
+FracBaseClk__1: |*
+FracBaseClk__1__dflt: 
+FracBaseClk__2: |*
+FracBaseClk__2__dflt: 
+FracBaseClk__3: |*
+FracBaseClk__3__dflt: 
+FracBaseXtal__0: 25|*
+FracBaseXtal__0__dflt: 25
+FracBaseXtal__1: 25|*
+FracBaseXtal__1__dflt: 25
+FracBaseXtal__2: 25|*
+FracBaseXtal__2__dflt: 25
+FracBaseXtal__3: 25|*
+FracBaseXtal__3__dflt: 25
+FracDenomClk__0: 1|*
+FracDenomClk__0__dflt: 1
+FracDenomClk__1: 1|*
+FracDenomClk__1__dflt: 1
+FracDenomClk__2: 1|*
+FracDenomClk__2__dflt: 1
+FracDenomClk__3: 1|*
+FracDenomClk__3__dflt: 1
+FracDenomXtal__0: 1|*
+FracDenomXtal__0__dflt: 1
+FracDenomXtal__1: 1|*
+FracDenomXtal__1__dflt: 1
+FracDenomXtal__2: 1|*
+FracDenomXtal__2__dflt: 1
+FracDenomXtal__3: 1|*
+FracDenomXtal__3__dflt: 1
+FracNumClk__0: 1|*
+FracNumClk__0__dflt: 1
+FracNumClk__1: 1|*
+FracNumClk__1__dflt: 1
+FracNumClk__2: 1|*
+FracNumClk__2__dflt: 1
+FracNumClk__3: 1|*
+FracNumClk__3__dflt: 1
+FracNumXtal__0: 1|*
+FracNumXtal__0__dflt: 1
+FracNumXtal__1: 1|*
+FracNumXtal__1__dflt: 1
+FracNumXtal__2: 1|*
+FracNumXtal__2__dflt: 1
+FracNumXtal__3: 1|*
+FracNumXtal__3__dflt: 1
+FracRatio1__0: False|*
+FracRatio1__0__dflt: False
+FracRatio1__1: False|*
+FracRatio1__1__dflt: False
+FracRatio1__2: False|*
+FracRatio1__2__dflt: False
+FracRatio1__3: False|*
+FracRatio1__3__dflt: False
+FracRatio1Save__0: False|*
+FracRatio1Save__0__dflt: False
+FracRatio1Save__1: False|*
+FracRatio1Save__1__dflt: False
+FracRatio1Save__2: False|*
+FracRatio1Save__2__dflt: False
+FracRatio1Save__3: False|*
+FracRatio1Save__3__dflt: False
+FracRatio2__0: False|*
+FracRatio2__0__dflt: False
+FracRatio2__1: False|*
+FracRatio2__1__dflt: False
+FracRatio2__2: False|*
+FracRatio2__2__dflt: False
+FracRatio2__3: False|*
+FracRatio2__3__dflt: False
+FracRatio2Save__0: False|*
+FracRatio2Save__0__dflt: False
+FracRatio2Save__1: False|*
+FracRatio2Save__1__dflt: False
+FracRatio2Save__2: False|*
+FracRatio2Save__2__dflt: False
+FracRatio2Save__3: False|*
+FracRatio2Save__3__dflt: False
+FracRatio3__0: False|*
+FracRatio3__0__dflt: False
+FracRatio3__1: False|*
+FracRatio3__1__dflt: False
+FracRatio3__2: False|*
+FracRatio3__2__dflt: False
+FracRatio3__3: False|*
+FracRatio3__3__dflt: False
+FracRatio3Save__0: False|*
+FracRatio3Save__0__dflt: False
+FracRatio3Save__1: False|*
+FracRatio3Save__1__dflt: False
+FracRatio3Save__2: False|*
+FracRatio3Save__2__dflt: False
+FracRatio3Save__3: False|*
+FracRatio3Save__3__dflt: False
+FracRatio4__0: False|*
+FracRatio4__0__dflt: False
+FracRatio4__1: False|*
+FracRatio4__1__dflt: False
+FracRatio4__2: False|*
+FracRatio4__2__dflt: False
+FracRatio4__3: False|*
+FracRatio4__3__dflt: False
+FracRatio4Save__0: False|*
+FracRatio4Save__0__dflt: False
+FracRatio4Save__1: False|*
+FracRatio4Save__1__dflt: False
+FracRatio4Save__2: False|*
+FracRatio4Save__2__dflt: False
+FracRatio4Save__3: False|*
+FracRatio4Save__3__dflt: False
+FracRatioClk__0: False|*
+FracRatioClk__0__dflt: False
+FracRatioClk__1: False|*
+FracRatioClk__1__dflt: False
+FracRatioClk__2: False|*
+FracRatioClk__2__dflt: False
+FracRatioClk__3: False|*
+FracRatioClk__3__dflt: False
+FracRatioXtal__0: False|*
+FracRatioXtal__0__dflt: False
+FracRatioXtal__1: False|*
+FracRatioXtal__1__dflt: False
+FracRatioXtal__2: False|*
+FracRatioXtal__2__dflt: False
+FracRatioXtal__3: False|*
+FracRatioXtal__3__dflt: False
+FRACTIONS_OPTIMIZED__0: False|*
+FRACTIONS_OPTIMIZED__0__dflt: False
+FRACTIONS_OPTIMIZED__1: False|*
+FRACTIONS_OPTIMIZED__1__dflt: False
+FRACTIONS_OPTIMIZED__2: False|*
+FRACTIONS_OPTIMIZED__2__dflt: False
+FRACTIONS_OPTIMIZED__3: False|*
+FRACTIONS_OPTIMIZED__3__dflt: False
+GlobalShutDown: 0|*
+GlobalShutDown__dflt: 0
+Grouped_Clk_Cfg_1__0: 5|L
+Grouped_Clk_Cfg_1__0__dflt: 5
+Grouped_Clk_Cfg_1__1: 0|*
+Grouped_Clk_Cfg_1__1__dflt: 0
+Grouped_Clk_Cfg_1__2: 0|*
+Grouped_Clk_Cfg_1__2__dflt: 0
+Grouped_Clk_Cfg_1__3: 0|*
+Grouped_Clk_Cfg_1__3__dflt: 0
+Grouped_Clk_Cfg_2__0: 5|L
+Grouped_Clk_Cfg_2__0__dflt: 5
+Grouped_Clk_Cfg_2__1: 0|*
+Grouped_Clk_Cfg_2__1__dflt: 0
+Grouped_Clk_Cfg_2__2: 0|*
+Grouped_Clk_Cfg_2__2__dflt: 0
+Grouped_Clk_Cfg_2__3: 0|*
+Grouped_Clk_Cfg_2__3__dflt: 0
+Grouped_Clk_Cfg_3__0: 5|L
+Grouped_Clk_Cfg_3__0__dflt: 5
+Grouped_Clk_Cfg_3__1: 0|*
+Grouped_Clk_Cfg_3__1__dflt: 0
+Grouped_Clk_Cfg_3__2: 0|*
+Grouped_Clk_Cfg_3__2__dflt: 0
+Grouped_Clk_Cfg_3__3: 0|*
+Grouped_Clk_Cfg_3__3__dflt: 0
+Grouped_Clk_Cfg_4__0: 5|L
+Grouped_Clk_Cfg_4__0__dflt: 5
+Grouped_Clk_Cfg_4__1: 0|*
+Grouped_Clk_Cfg_4__1__dflt: 0
+Grouped_Clk_Cfg_4__2: 0|*
+Grouped_Clk_Cfg_4__2__dflt: 0
+Grouped_Clk_Cfg_4__3: 0|*
+Grouped_Clk_Cfg_4__3__dflt: 0
+Grouped_Clk_Cfg_G__0: 0|*
+Grouped_Clk_Cfg_G__0__dflt: 0
+Grouped_Clk_Cfg_G__1: 0|*
+Grouped_Clk_Cfg_G__1__dflt: 0
+Grouped_Clk_Cfg_G__2: 0|*
+Grouped_Clk_Cfg_G__2__dflt: 0
+Grouped_Clk_Cfg_G__3: 0|*
+Grouped_Clk_Cfg_G__3__dflt: 0
+I2C_BYPB_DL__0: 1|*
+I2C_BYPB_DL__0__dflt: 1
+I2C_BYPB_DL__1: 1|*
+I2C_BYPB_DL__1__dflt: 1
+I2C_BYPB_DL__2: 1|*
+I2C_BYPB_DL__2__dflt: 1
+I2C_BYPB_DL__3: 1|*
+I2C_BYPB_DL__3__dflt: 1
+I2C_GLOBAL_RESETB: 1|*
+I2C_GLOBAL_RESETB__dflt: 1
+I2C_RESET_NEEDED__0: 2024-08-29 00:22:50.675000|*
+I2C_RESET_NEEDED__0__dflt: 08/29/2024 00:22:50
+I2C_RESET_NEEDED__1: 04/18/2014 00:00:00|*
+I2C_RESET_NEEDED__1__dflt: 04/18/2014 00:00:00
+I2C_RESET_NEEDED__2: 04/18/2014 00:00:00|*
+I2C_RESET_NEEDED__2__dflt: 04/18/2014 00:00:00
+I2C_RESET_NEEDED__3: 04/18/2014 00:00:00|*
+I2C_RESET_NEEDED__3__dflt: 04/18/2014 00:00:00
+I2C_RESET_NEEDED_PRIOR: 2024-08-29 00:22:51.039000|*
+I2C_RESET_NEEDED_PRIOR__dflt: 08/29/2024 00:22:51
+I2C_RESETB1__0: 1|*
+I2C_RESETB1__0__dflt: 1
+I2C_RESETB1__1: 0|*
+I2C_RESETB1__1__dflt: 0
+I2C_RESETB1__2: 0|*
+I2C_RESETB1__2__dflt: 0
+I2C_RESETB1__3: 0|*
+I2C_RESETB1__3__dflt: 0
+I2C_RESETB2__0: 1|*
+I2C_RESETB2__0__dflt: 1
+I2C_RESETB2__1: 0|*
+I2C_RESETB2__1__dflt: 0
+I2C_RESETB2__2: 0|*
+I2C_RESETB2__2__dflt: 0
+I2C_RESETB2__3: 0|*
+I2C_RESETB2__3__dflt: 0
+I2C_RESETB3__0: 1|*
+I2C_RESETB3__0__dflt: 1
+I2C_RESETB3__1: 0|*
+I2C_RESETB3__1__dflt: 0
+I2C_RESETB3__2: 0|*
+I2C_RESETB3__2__dflt: 0
+I2C_RESETB3__3: 0|*
+I2C_RESETB3__3__dflt: 0
+I2C_RESETB4__0: 1|*
+I2C_RESETB4__0__dflt: 1
+I2C_RESETB4__1: 0|*
+I2C_RESETB4__1__dflt: 0
+I2C_RESETB4__2: 0|*
+I2C_RESETB4__2__dflt: 0
+I2C_RESETB4__3: 0|*
+I2C_RESETB4__3__dflt: 0
+I2C_SSCE__0: 0|*
+I2C_SSCE__0__dflt: 0
+I2C_SSCE__1: 0|*
+I2C_SSCE__1__dflt: 0
+I2C_SSCE__2: 0|*
+I2C_SSCE__2__dflt: 0
+I2C_SSCE__3: 0|*
+I2C_SSCE__3__dflt: 0
+I2CS_BUSY: 0|*
+I2CS_BUSY__dflt: 0
+IddMax0__0: 0|*
+IddMax0__0__dflt: 0
+IddMax0__1: 0|*
+IddMax0__1__dflt: 0
+IddMax0__2: 0|*
+IddMax0__2__dflt: 0
+IddMax0__3: 0|*
+IddMax0__3__dflt: 0
+IddMax1__0: 34.2|*
+IddMax1__0__dflt: 34.2
+IddMax1__1: 0|*
+IddMax1__1__dflt: 0
+IddMax1__2: 0|*
+IddMax1__2__dflt: 0
+IddMax1__3: 0|*
+IddMax1__3__dflt: 0
+IddMax2__0: 34.2|*
+IddMax2__0__dflt: 34.2
+IddMax2__1: 0|*
+IddMax2__1__dflt: 0
+IddMax2__2: 0|*
+IddMax2__2__dflt: 0
+IddMax2__3: 0|*
+IddMax2__3__dflt: 0
+IddMax3__0: 34.2|*
+IddMax3__0__dflt: 34.2
+IddMax3__1: 0|*
+IddMax3__1__dflt: 0
+IddMax3__2: 0|*
+IddMax3__2__dflt: 0
+IddMax3__3: 0|*
+IddMax3__3__dflt: 0
+IddMax4__0: 34.2|*
+IddMax4__0__dflt: 34.2
+IddMax4__1: 0|*
+IddMax4__1__dflt: 0
+IddMax4__2: 0|*
+IddMax4__2__dflt: 0
+IddMax4__3: 0|*
+IddMax4__3__dflt: 0
+IddMaxRail1__0: 0|*
+IddMaxRail1__0__dflt: 0
+IddMaxRail1__1: 0|*
+IddMaxRail1__1__dflt: 0
+IddMaxRail1__2: 0|*
+IddMaxRail1__2__dflt: 0
+IddMaxRail1__3: 0|*
+IddMaxRail1__3__dflt: 0
+IddMaxRail2__0: 0|*
+IddMaxRail2__0__dflt: 0
+IddMaxRail2__1: 0|*
+IddMaxRail2__1__dflt: 0
+IddMaxRail2__2: 0|*
+IddMaxRail2__2__dflt: 0
+IddMaxRail2__3: 0|*
+IddMaxRail2__3__dflt: 0
+IddMaxRail3__0: 0|*
+IddMaxRail3__0__dflt: 0
+IddMaxRail3__1: 0|*
+IddMaxRail3__1__dflt: 0
+IddMaxRail3__2: 0|*
+IddMaxRail3__2__dflt: 0
+IddMaxRail3__3: 0|*
+IddMaxRail3__3__dflt: 0
+IddTyp0__0: 12.96|*
+IddTyp0__0__dflt: 12.96
+IddTyp0__1: 0|*
+IddTyp0__1__dflt: 0
+IddTyp0__2: 0|*
+IddTyp0__2__dflt: 0
+IddTyp0__3: 0|*
+IddTyp0__3__dflt: 0
+IddTyp1__0: 28.8|*
+IddTyp1__0__dflt: 28.8
+IddTyp1__1: 0|*
+IddTyp1__1__dflt: 0
+IddTyp1__2: 0|*
+IddTyp1__2__dflt: 0
+IddTyp1__3: 0|*
+IddTyp1__3__dflt: 0
+IddTyp2__0: 28.8|*
+IddTyp2__0__dflt: 28.8
+IddTyp2__1: 0|*
+IddTyp2__1__dflt: 0
+IddTyp2__2: 0|*
+IddTyp2__2__dflt: 0
+IddTyp2__3: 0|*
+IddTyp2__3__dflt: 0
+IddTyp3__0: 28.8|*
+IddTyp3__0__dflt: 28.8
+IddTyp3__1: 0|*
+IddTyp3__1__dflt: 0
+IddTyp3__2: 0|*
+IddTyp3__2__dflt: 0
+IddTyp3__3: 0|*
+IddTyp3__3__dflt: 0
+IddTyp4__0: 28.8|*
+IddTyp4__0__dflt: 28.8
+IddTyp4__1: 0|*
+IddTyp4__1__dflt: 0
+IddTyp4__2: 0|*
+IddTyp4__2__dflt: 0
+IddTyp4__3: 0|*
+IddTyp4__3__dflt: 0
+IddTypRail1__0: 0|*
+IddTypRail1__0__dflt: 0
+IddTypRail1__1: 0|*
+IddTypRail1__1__dflt: 0
+IddTypRail1__2: 0|*
+IddTypRail1__2__dflt: 0
+IddTypRail1__3: 0|*
+IddTypRail1__3__dflt: 0
+IddTypRail2__0: 0|*
+IddTypRail2__0__dflt: 0
+IddTypRail2__1: 0|*
+IddTypRail2__1__dflt: 0
+IddTypRail2__2: 0|*
+IddTypRail2__2__dflt: 0
+IddTypRail2__3: 0|*
+IddTypRail2__3__dflt: 0
+IddTypRail3__0: 0|*
+IddTypRail3__0__dflt: 0
+IddTypRail3__1: 0|*
+IddTypRail3__1__dflt: 0
+IddTypRail3__2: 0|*
+IddTypRail3__2__dflt: 0
+IddTypRail3__3: 0|*
+IddTypRail3__3__dflt: 0
+IDEAL_CC_JITTER_CLK1__0: |*
+IDEAL_CC_JITTER_CLK1__0__dflt: 
+IDEAL_CC_JITTER_CLK1__1: |*
+IDEAL_CC_JITTER_CLK1__1__dflt: 
+IDEAL_CC_JITTER_CLK1__2: |*
+IDEAL_CC_JITTER_CLK1__2__dflt: 
+IDEAL_CC_JITTER_CLK1__3: |*
+IDEAL_CC_JITTER_CLK1__3__dflt: 
+IDEAL_CC_JITTER_CLK2__0: |*
+IDEAL_CC_JITTER_CLK2__0__dflt: 
+IDEAL_CC_JITTER_CLK2__1: |*
+IDEAL_CC_JITTER_CLK2__1__dflt: 
+IDEAL_CC_JITTER_CLK2__2: |*
+IDEAL_CC_JITTER_CLK2__2__dflt: 
+IDEAL_CC_JITTER_CLK2__3: |*
+IDEAL_CC_JITTER_CLK2__3__dflt: 
+IDEAL_CC_JITTER_CLK3__0: |*
+IDEAL_CC_JITTER_CLK3__0__dflt: 
+IDEAL_CC_JITTER_CLK3__1: |*
+IDEAL_CC_JITTER_CLK3__1__dflt: 
+IDEAL_CC_JITTER_CLK3__2: |*
+IDEAL_CC_JITTER_CLK3__2__dflt: 
+IDEAL_CC_JITTER_CLK3__3: |*
+IDEAL_CC_JITTER_CLK3__3__dflt: 
+IDEAL_CC_JITTER_CLK4__0: |*
+IDEAL_CC_JITTER_CLK4__0__dflt: 
+IDEAL_CC_JITTER_CLK4__1: |*
+IDEAL_CC_JITTER_CLK4__1__dflt: 
+IDEAL_CC_JITTER_CLK4__2: |*
+IDEAL_CC_JITTER_CLK4__2__dflt: 
+IDEAL_CC_JITTER_CLK4__3: |*
+IDEAL_CC_JITTER_CLK4__3__dflt: 
+INIT_ACTIVE: 0|*
+INIT_ACTIVE__dflt: 0
+INIT_DONE: 0|*
+INIT_DONE__dflt: 0
+INPUT_REF_FREQUENCY__0: 25|*
+INPUT_REF_FREQUENCY__0__dflt: 25
+INPUT_REF_FREQUENCY__1: 25|*
+INPUT_REF_FREQUENCY__1__dflt: 25
+INPUT_REF_FREQUENCY__2: 25|*
+INPUT_REF_FREQUENCY__2__dflt: 25
+INPUT_REF_FREQUENCY__3: 25|*
+INPUT_REF_FREQUENCY__3__dflt: 25
+INPUT_XTAL_max__0: 40|*
+INPUT_XTAL_max__0__dflt: 40
+INPUT_XTAL_max__1: 40|*
+INPUT_XTAL_max__1__dflt: 40
+INPUT_XTAL_max__2: 40|*
+INPUT_XTAL_max__2__dflt: 40
+INPUT_XTAL_max__3: 40|*
+INPUT_XTAL_max__3__dflt: 40
+INPUT_XTAL_min: 1|*
+INPUT_XTAL_min__dflt: 1
+InputFrequency0__0: 0|*
+InputFrequency0__0__dflt: 0
+InputFrequency0__1: 0|*
+InputFrequency0__1__dflt: 0
+InputFrequency0__2: 0|*
+InputFrequency0__2__dflt: 0
+InputFrequency0__3: 0|*
+InputFrequency0__3__dflt: 0
+InputFrequencyXTAL__0: 25|*
+InputFrequencyXTAL__0__dflt: 25
+InputFrequencyXTAL__1: 25|*
+InputFrequencyXTAL__1__dflt: 25
+InputFrequencyXTAL__2: 25|*
+InputFrequencyXTAL__2__dflt: 25
+InputFrequencyXTAL__3: 25|*
+InputFrequencyXTAL__3__dflt: 25
+InSelBool: False|*
+InSelBool__dflt: False
+INT_MODE_LOCK_COUNT__0: 0|*
+INT_MODE_LOCK_COUNT__0__dflt: 0
+INT_MODE_LOCK_COUNT__1: 0|*
+INT_MODE_LOCK_COUNT__1__dflt: 0
+INT_MODE_LOCK_COUNT__2: 0|*
+INT_MODE_LOCK_COUNT__2__dflt: 0
+INT_MODE_LOCK_COUNT__3: 0|*
+INT_MODE_LOCK_COUNT__3__dflt: 0
+IS_SEL_CTRL__0: False|*
+IS_SEL_CTRL__0__dflt: False
+IS_SEL_CTRL__1: False|*
+IS_SEL_CTRL__1__dflt: False
+IS_SEL_CTRL__2: False|*
+IS_SEL_CTRL__2__dflt: False
+IS_SEL_CTRL__3: False|*
+IS_SEL_CTRL__3__dflt: False
+Load_Test__0: 0|*
+Load_Test__0__dflt: 0
+Load_Test__1: 0|*
+Load_Test__1__dflt: 0
+Load_Test__2: 0|*
+Load_Test__2__dflt: 0
+Load_Test__3: 0|*
+Load_Test__3__dflt: 0
+LOOP_FILTER_OPTIMIZED__0: True|*
+LOOP_FILTER_OPTIMIZED__0__dflt: True
+LOOP_FILTER_OPTIMIZED__1: True|*
+LOOP_FILTER_OPTIMIZED__1__dflt: True
+LOOP_FILTER_OPTIMIZED__2: True|*
+LOOP_FILTER_OPTIMIZED__2__dflt: True
+LOOP_FILTER_OPTIMIZED__3: True|*
+LOOP_FILTER_OPTIMIZED__3__dflt: True
+LOSS_ALT: 0|*
+LOSS_ALT__dflt: 0
+LOSS_BOTH: 0|*
+LOSS_BOTH__dflt: 0
+LOSS_CLKIN: 0|*
+LOSS_CLKIN__dflt: 0
+LOSS_LOCK: 0|*
+LOSS_LOCK__dflt: 0
+LOSS_PRIM: 0|*
+LOSS_PRIM__dflt: 0
+LPF_CNF_CP__0: 0|*
+LPF_CNF_CP__0__dflt: 0
+LPF_CNF_CP__1: 0|*
+LPF_CNF_CP__1__dflt: 0
+LPF_CNF_CP__2: 0|*
+LPF_CNF_CP__2__dflt: 0
+LPF_CNF_CP__3: 0|*
+LPF_CNF_CP__3__dflt: 0
+LPF_CNF_CP_SV__0: 0|*
+LPF_CNF_CP_SV__0__dflt: 0
+LPF_CNF_CP_SV__1: 0|*
+LPF_CNF_CP_SV__1__dflt: 0
+LPF_CNF_CP_SV__2: 0|*
+LPF_CNF_CP_SV__2__dflt: 0
+LPF_CNF_CP_SV__3: 0|*
+LPF_CNF_CP_SV__3__dflt: 0
+LPF_CNF_RZ__0: 30|*
+LPF_CNF_RZ__0__dflt: 30
+LPF_CNF_RZ__1: 30|*
+LPF_CNF_RZ__1__dflt: 30
+LPF_CNF_RZ__2: 30|*
+LPF_CNF_RZ__2__dflt: 30
+LPF_CNF_RZ__3: 30|*
+LPF_CNF_RZ__3__dflt: 30
+LPF_CNF_RZ_SV__0: 30|*
+LPF_CNF_RZ_SV__0__dflt: 30
+LPF_CNF_RZ_SV__1: 30|*
+LPF_CNF_RZ_SV__1__dflt: 30
+LPF_CNF_RZ_SV__2: 30|*
+LPF_CNF_RZ_SV__2__dflt: 30
+LPF_CNF_RZ_SV__3: 30|*
+LPF_CNF_RZ_SV__3__dflt: 30
+MasterString: IDT Timing Commander Settings#n#Personality/Version: 5P49V6975 V1.4.1 [b5.2]#n#Created: 2024-08-29 00:23:09#n#-------------------------------------------#n##n#Part:		5P49V6975#n#Product Family:	VersaClock 5#n#Company name:	#n#Project Name	#n#Operator:	#n#Dash Code:	#n#Comments:	#n#-------------------------------------------------------------------------------------#n##n#Device I2C address: D4#n#----------------------#n##n##n#Configuration 0#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.7GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	 25.000000 	LVCMOS  	1.8	1.0x 		KHz	%	Dir.#n#CLK1  	 52.000000 	LVDS    	1.8	1.0x 	 520	----	----	----#n#CLK2  	125.000000 	LVDS    	1.8	1.0x 	1073	----	----	----#n#CLK3  	 27.000000 	LVDS    	1.8	1.0x 	   0	----	----	----#n#CLK4  	300.000000 	LVDS    	1.8	1.0x 	1600	----	----	----#n##n##n#Configuration 1#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n##n#Configuration 2#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n##n#Configuration 3#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n#Config 0 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 60 00 00 00 9F FF F0 80 00 81 03 D8 9D 88 00 00 00 00 00 02 60 01 90 1E 00 81 03 33 33 30 00 00 00 00 00 02 00 00 A0 3F 00 81 00 00 00 00 00 00 00 00 00 00 00 03 20 00 00 81 02 00 00 00 00 00 00 00 00 01 40 00 40 20 63 05 63 05 63 05 63 05 FC FC #n#Config 1 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 #n#Config 2 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 #n#Config 3 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 |*
+MasterString__dflt: IDT Timing Commander Settings#n#Personality/Version: 5P49V6975 V1.4.1 [b5.2]#n#Created: 2024-08-29 00:23:09#n#-------------------------------------------#n##n#Part:		5P49V6975#n#Product Family:	VersaClock 5#n#Company name:	#n#Project Name	#n#Operator:	#n#Dash Code:	#n#Comments:	#n#-------------------------------------------------------------------------------------#n##n#Device I2C address: D4#n#----------------------#n##n##n#Configuration 0#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.7GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	 25.000000 	LVCMOS  	1.8	1.0x 		KHz	%	Dir.#n#CLK1  	 52.000000 	LVDS    	1.8	1.0x 	 520	----	----	----#n#CLK2  	125.000000 	LVDS    	1.8	1.0x 	1073	----	----	----#n#CLK3  	 27.000000 	LVDS    	1.8	1.0x 	   0	----	----	----#n#CLK4  	300.000000 	LVDS    	1.8	1.0x 	1600	----	----	----#n##n##n#Configuration 1#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n##n#Configuration 2#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n##n#Configuration 3#n#---------------#n#Input frequencies:#n#				En Global Shutdown: Off#n#Crystal: 25.0MHz (primary)	    SD/OE Polarity: Off        SDOE Pin: low#n#Clk    : 0.0MHz          	  PrimSrc Polarity: Off     CLK_SEL Pin: low#n#VCO    : 2.5GHz#n#Load Caps (pF): CL=11.4 (X1=22.7, X2=22.7)#n##n#      	       MHz	Type    	VDDO	Slew	Skew	-----  Spread  -----#n#CLK0  	     ----- 	LVCMOS  	3.3	1.0x 		KHz	%	Dir.#n#CLK1  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK2  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK3  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n#CLK4  	     ----- 	LVCMOS1 	3.3	1.0x 	   0	----	----	----#n##n#Config 0 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 60 00 00 00 9F FF F0 80 00 81 03 D8 9D 88 00 00 00 00 00 02 60 01 90 1E 00 81 03 33 33 30 00 00 00 00 00 02 00 00 A0 3F 00 81 00 00 00 00 00 00 00 00 00 00 00 03 20 00 00 81 02 00 00 00 00 00 00 00 00 01 40 00 40 20 63 05 63 05 63 05 63 05 FC FC #n#Config 1 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 #n#Config 2 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 #n#Config 3 registers: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 
+MAX_FREQ_CMOS: 200|*
+MAX_FREQ_CMOS__dflt: 200
+MAX_SLEW_RATE_CLK1__0: |*
+MAX_SLEW_RATE_CLK1__0__dflt: 
+MAX_SLEW_RATE_CLK1__1: |*
+MAX_SLEW_RATE_CLK1__1__dflt: 
+MAX_SLEW_RATE_CLK1__2: |*
+MAX_SLEW_RATE_CLK1__2__dflt: 
+MAX_SLEW_RATE_CLK1__3: |*
+MAX_SLEW_RATE_CLK1__3__dflt: 
+MAX_SLEW_RATE_CLK2__0: |*
+MAX_SLEW_RATE_CLK2__0__dflt: 
+MAX_SLEW_RATE_CLK2__1: |*
+MAX_SLEW_RATE_CLK2__1__dflt: 
+MAX_SLEW_RATE_CLK2__2: |*
+MAX_SLEW_RATE_CLK2__2__dflt: 
+MAX_SLEW_RATE_CLK2__3: |*
+MAX_SLEW_RATE_CLK2__3__dflt: 
+MAX_SLEW_RATE_CLK3__0: |*
+MAX_SLEW_RATE_CLK3__0__dflt: 
+MAX_SLEW_RATE_CLK3__1: |*
+MAX_SLEW_RATE_CLK3__1__dflt: 
+MAX_SLEW_RATE_CLK3__2: |*
+MAX_SLEW_RATE_CLK3__2__dflt: 
+MAX_SLEW_RATE_CLK3__3: |*
+MAX_SLEW_RATE_CLK3__3__dflt: 
+MAX_SLEW_RATE_CLK4__0: |*
+MAX_SLEW_RATE_CLK4__0__dflt: 
+MAX_SLEW_RATE_CLK4__1: |*
+MAX_SLEW_RATE_CLK4__1__dflt: 
+MAX_SLEW_RATE_CLK4__2: |*
+MAX_SLEW_RATE_CLK4__2__dflt: 
+MAX_SLEW_RATE_CLK4__3: |*
+MAX_SLEW_RATE_CLK4__3__dflt: 
+MaxPfd__0: 150|*
+MaxPfd__0__dflt: 150
+MaxPfd__1: 150|*
+MaxPfd__1__dflt: 150
+MaxPfd__2: 150|*
+MaxPfd__2__dflt: 150
+MaxPfd__3: 150|*
+MaxPfd__3__dflt: 150
+MaxRefDiv__0: 1|*
+MaxRefDiv__0__dflt: 1
+MaxRefDiv__1: 1|*
+MaxRefDiv__1__dflt: 1
+MaxRefDiv__2: 1|*
+MaxRefDiv__2__dflt: 1
+MaxRefDiv__3: 1|*
+MaxRefDiv__3__dflt: 1
+MEMS_CLKIN_SEL: 1|*
+MEMS_CLKIN_SEL__dflt: 1
+MEMS_CLKOUT_SEL: 0|*
+MEMS_CLKOUT_SEL__dflt: 0
+MEMS_EN_DIAG_TEST: 0|*
+MEMS_EN_DIAG_TEST__dflt: 0
+MEMS_EN_EXT_BITS: 0|*
+MEMS_EN_EXT_BITS__dflt: 0
+MEMS_EN_EXT_VIN: 0|*
+MEMS_EN_EXT_VIN__dflt: 0
+MEMS_EN_PAD: 0|*
+MEMS_EN_PAD__dflt: 0
+MEMS_TEST_SIGOUT: 0|*
+MEMS_TEST_SIGOUT__dflt: 0
+MEMS_VC5: 1|*
+MEMS_VC5__dflt: 1
+META_OD1_FRACTION__0: 0|*
+META_OD1_FRACTION__0__dflt: 0
+META_OD1_FRACTION__1: 0|*
+META_OD1_FRACTION__1__dflt: 0
+META_OD1_FRACTION__2: 0|*
+META_OD1_FRACTION__2__dflt: 0
+META_OD1_FRACTION__3: 0|*
+META_OD1_FRACTION__3__dflt: 0
+MetaConfigNumber__0: 0|*
+MetaConfigNumber__0__dflt: 0
+MetaConfigNumber__1: 0|*
+MetaConfigNumber__1__dflt: 0
+MetaConfigNumber__2: 0|*
+MetaConfigNumber__2__dflt: 0
+MetaConfigNumber__3: 0|*
+MetaConfigNumber__3__dflt: 0
+MRGN_RD_FAIL: 0|*
+MRGN_RD_FAIL__dflt: 0
+MRGN1_RD_START: 0|*
+MRGN1_RD_START__dflt: 0
+MRGN2_RD_START: 0|*
+MRGN2_RD_START__dflt: 0
+NP: 15|*
+NP__dflt: 15
+OD1_EN_AUX__0: 0|*
+OD1_EN_AUX__0__dflt: 0
+OD1_EN_AUX__1: 0|*
+OD1_EN_AUX__1__dflt: 0
+OD1_EN_AUX__2: 0|*
+OD1_EN_AUX__2__dflt: 0
+OD1_EN_AUX__3: 0|*
+OD1_EN_AUX__3__dflt: 0
+OD1_EN_FOD__0: 1|*
+OD1_EN_FOD__0__dflt: 1
+OD1_EN_FOD__1: 0|*
+OD1_EN_FOD__1__dflt: 0
+OD1_EN_FOD__2: 0|*
+OD1_EN_FOD__2__dflt: 0
+OD1_EN_FOD__3: 0|*
+OD1_EN_FOD__3__dflt: 0
+OD1_EN_VREG: 1|*
+OD1_EN_VREG__dflt: 1
+OD1_FRACTION__0: 16131938|*
+OD1_FRACTION__0__dflt: 16131938
+OD1_FRACTION__1: |*
+OD1_FRACTION__1__dflt: 
+OD1_FRACTION__2: |*
+OD1_FRACTION__2__dflt: 
+OD1_FRACTION__3: |*
+OD1_FRACTION__3__dflt: 
+OD1_FRCSKEW__0: 30|*
+OD1_FRCSKEW__0__dflt: 30
+OD1_FRCSKEW__1: 0|*
+OD1_FRCSKEW__1__dflt: 0
+OD1_FRCSKEW__2: 0|*
+OD1_FRCSKEW__2__dflt: 0
+OD1_FRCSKEW__3: 0|*
+OD1_FRCSKEW__3__dflt: 0
+OD1_INT_DIV__0: 25|*
+OD1_INT_DIV__0__dflt: 25
+OD1_INT_DIV__1: |*
+OD1_INT_DIV__1__dflt: 
+OD1_INT_DIV__2: |*
+OD1_INT_DIV__2__dflt: 
+OD1_INT_DIV__3: |*
+OD1_INT_DIV__3__dflt: 
+OD1_INT_MODE__0: 0|*
+OD1_INT_MODE__0__dflt: 0
+OD1_INT_MODE__1: 0|*
+OD1_INT_MODE__1__dflt: 0
+OD1_INT_MODE__2: 0|*
+OD1_INT_MODE__2__dflt: 0
+OD1_INT_MODE__3: 0|*
+OD1_INT_MODE__3__dflt: 0
+OD1_INTSKEW__0: 38|*
+OD1_INTSKEW__0__dflt: 38
+OD1_INTSKEW__1: 0|*
+OD1_INTSKEW__1__dflt: 0
+OD1_INTSKEW__2: 0|*
+OD1_INTSKEW__2__dflt: 0
+OD1_INTSKEW__3: 0|*
+OD1_INTSKEW__3__dflt: 0
+OD1_PERIOD__0: 0|*
+OD1_PERIOD__0__dflt: 0
+OD1_PERIOD__1: 0|*
+OD1_PERIOD__1__dflt: 0
+OD1_PERIOD__2: 0|*
+OD1_PERIOD__2__dflt: 0
+OD1_PERIOD__3: 0|*
+OD1_PERIOD__3__dflt: 0
+OD1_SEL_EXT__0: 0|*
+OD1_SEL_EXT__0__dflt: 0
+OD1_SEL_EXT__1: 0|*
+OD1_SEL_EXT__1__dflt: 0
+OD1_SEL_EXT__2: 0|*
+OD1_SEL_EXT__2__dflt: 0
+OD1_SEL_EXT__3: 0|*
+OD1_SEL_EXT__3__dflt: 0
+OD1_SELB_NORM__0: 0|*
+OD1_SELB_NORM__0__dflt: 0
+OD1_SELB_NORM__1: 0|*
+OD1_SELB_NORM__1__dflt: 0
+OD1_SELB_NORM__2: 0|*
+OD1_SELB_NORM__2__dflt: 0
+OD1_SELB_NORM__3: 0|*
+OD1_SELB_NORM__3__dflt: 0
+OD1_SSCE__0: 0|*
+OD1_SSCE__0__dflt: 0
+OD1_SSCE__1: 0|*
+OD1_SSCE__1__dflt: 0
+OD1_SSCE__2: 0|*
+OD1_SSCE__2__dflt: 0
+OD1_SSCE__3: 0|*
+OD1_SSCE__3__dflt: 0
+OD1_STEP__0: 0|*
+OD1_STEP__0__dflt: 0
+OD1_STEP__1: 0|*
+OD1_STEP__1__dflt: 0
+OD1_STEP__2: 0|*
+OD1_STEP__2__dflt: 0
+OD1_STEP__3: 0|*
+OD1_STEP__3__dflt: 0
+OD2_EN_AUX__0: 0|*
+OD2_EN_AUX__0__dflt: 0
+OD2_EN_AUX__1: 0|*
+OD2_EN_AUX__1__dflt: 0
+OD2_EN_AUX__2: 0|*
+OD2_EN_AUX__2__dflt: 0
+OD2_EN_AUX__3: 0|*
+OD2_EN_AUX__3__dflt: 0
+OD2_EN_FOD__0: 1|*
+OD2_EN_FOD__0__dflt: 1
+OD2_EN_FOD__1: 0|*
+OD2_EN_FOD__1__dflt: 0
+OD2_EN_FOD__2: 0|*
+OD2_EN_FOD__2__dflt: 0
+OD2_EN_FOD__3: 0|*
+OD2_EN_FOD__3__dflt: 0
+OD2_EN_VREG: 1|*
+OD2_EN_VREG__dflt: 1
+OD2_FRACTION__0: 13421772|*
+OD2_FRACTION__0__dflt: 13421772
+OD2_FRACTION__1: |*
+OD2_FRACTION__1__dflt: 
+OD2_FRACTION__2: |*
+OD2_FRACTION__2__dflt: 
+OD2_FRACTION__3: |*
+OD2_FRACTION__3__dflt: 
+OD2_FRCSKEW__0: 63|*
+OD2_FRCSKEW__0__dflt: 63
+OD2_FRCSKEW__1: 0|*
+OD2_FRCSKEW__1__dflt: 0
+OD2_FRCSKEW__2: 0|*
+OD2_FRCSKEW__2__dflt: 0
+OD2_FRCSKEW__3: 0|*
+OD2_FRCSKEW__3__dflt: 0
+OD2_INT_DIV__0: 10|*
+OD2_INT_DIV__0__dflt: 10
+OD2_INT_DIV__1: |*
+OD2_INT_DIV__1__dflt: 
+OD2_INT_DIV__2: |*
+OD2_INT_DIV__2__dflt: 
+OD2_INT_DIV__3: |*
+OD2_INT_DIV__3__dflt: 
+OD2_INT_MODE__0: 0|*
+OD2_INT_MODE__0__dflt: 0
+OD2_INT_MODE__1: 0|*
+OD2_INT_MODE__1__dflt: 0
+OD2_INT_MODE__2: 0|*
+OD2_INT_MODE__2__dflt: 0
+OD2_INT_MODE__3: 0|*
+OD2_INT_MODE__3__dflt: 0
+OD2_INTSKEW__0: 32|*
+OD2_INTSKEW__0__dflt: 32
+OD2_INTSKEW__1: 0|*
+OD2_INTSKEW__1__dflt: 0
+OD2_INTSKEW__2: 0|*
+OD2_INTSKEW__2__dflt: 0
+OD2_INTSKEW__3: 0|*
+OD2_INTSKEW__3__dflt: 0
+OD2_PERIOD__0: 0|*
+OD2_PERIOD__0__dflt: 0
+OD2_PERIOD__1: 0|*
+OD2_PERIOD__1__dflt: 0
+OD2_PERIOD__2: 0|*
+OD2_PERIOD__2__dflt: 0
+OD2_PERIOD__3: 0|*
+OD2_PERIOD__3__dflt: 0
+OD2_SEL_EXT__0: 0|*
+OD2_SEL_EXT__0__dflt: 0
+OD2_SEL_EXT__1: 0|*
+OD2_SEL_EXT__1__dflt: 0
+OD2_SEL_EXT__2: 0|*
+OD2_SEL_EXT__2__dflt: 0
+OD2_SEL_EXT__3: 0|*
+OD2_SEL_EXT__3__dflt: 0
+OD2_SELB_NORM__0: 0|*
+OD2_SELB_NORM__0__dflt: 0
+OD2_SELB_NORM__1: 0|*
+OD2_SELB_NORM__1__dflt: 0
+OD2_SELB_NORM__2: 0|*
+OD2_SELB_NORM__2__dflt: 0
+OD2_SELB_NORM__3: 0|*
+OD2_SELB_NORM__3__dflt: 0
+OD2_SSCE__0: 0|*
+OD2_SSCE__0__dflt: 0
+OD2_SSCE__1: 0|*
+OD2_SSCE__1__dflt: 0
+OD2_SSCE__2: 0|*
+OD2_SSCE__2__dflt: 0
+OD2_SSCE__3: 0|*
+OD2_SSCE__3__dflt: 0
+OD2_STEP__0: 0|*
+OD2_STEP__0__dflt: 0
+OD2_STEP__1: 0|*
+OD2_STEP__1__dflt: 0
+OD2_STEP__2: 0|*
+OD2_STEP__2__dflt: 0
+OD2_STEP__3: 0|*
+OD2_STEP__3__dflt: 0
+OD3_EN_AUX__0: 0|*
+OD3_EN_AUX__0__dflt: 0
+OD3_EN_AUX__1: 0|*
+OD3_EN_AUX__1__dflt: 0
+OD3_EN_AUX__2: 0|*
+OD3_EN_AUX__2__dflt: 0
+OD3_EN_AUX__3: 0|*
+OD3_EN_AUX__3__dflt: 0
+OD3_EN_FOD__0: 1|*
+OD3_EN_FOD__0__dflt: 1
+OD3_EN_FOD__1: 0|*
+OD3_EN_FOD__1__dflt: 0
+OD3_EN_FOD__2: 0|*
+OD3_EN_FOD__2__dflt: 0
+OD3_EN_FOD__3: 0|*
+OD3_EN_FOD__3__dflt: 0
+OD3_EN_VREG: 1|*
+OD3_EN_VREG__dflt: 1
+OD3_FRACTION__0: 0|*
+OD3_FRACTION__0__dflt: 0
+OD3_FRACTION__1: |*
+OD3_FRACTION__1__dflt: 
+OD3_FRACTION__2: |*
+OD3_FRACTION__2__dflt: 
+OD3_FRACTION__3: |*
+OD3_FRACTION__3__dflt: 
+OD3_FRCSKEW__0: 0|*
+OD3_FRCSKEW__0__dflt: 0
+OD3_FRCSKEW__1: 0|*
+OD3_FRCSKEW__1__dflt: 0
+OD3_FRCSKEW__2: 0|*
+OD3_FRCSKEW__2__dflt: 0
+OD3_FRCSKEW__3: 0|*
+OD3_FRCSKEW__3__dflt: 0
+OD3_INT_DIV__0: 50|*
+OD3_INT_DIV__0__dflt: 50
+OD3_INT_DIV__1: |*
+OD3_INT_DIV__1__dflt: 
+OD3_INT_DIV__2: |*
+OD3_INT_DIV__2__dflt: 
+OD3_INT_DIV__3: |*
+OD3_INT_DIV__3__dflt: 
+OD3_INT_MODE__0: 0|*
+OD3_INT_MODE__0__dflt: 0
+OD3_INT_MODE__1: 0|*
+OD3_INT_MODE__1__dflt: 0
+OD3_INT_MODE__2: 0|*
+OD3_INT_MODE__2__dflt: 0
+OD3_INT_MODE__3: 0|*
+OD3_INT_MODE__3__dflt: 0
+OD3_INTSKEW__0: 0|*
+OD3_INTSKEW__0__dflt: 0
+OD3_INTSKEW__1: 0|*
+OD3_INTSKEW__1__dflt: 0
+OD3_INTSKEW__2: 0|*
+OD3_INTSKEW__2__dflt: 0
+OD3_INTSKEW__3: 0|*
+OD3_INTSKEW__3__dflt: 0
+OD3_PERIOD__0: 0|*
+OD3_PERIOD__0__dflt: 0
+OD3_PERIOD__1: 0|*
+OD3_PERIOD__1__dflt: 0
+OD3_PERIOD__2: 0|*
+OD3_PERIOD__2__dflt: 0
+OD3_PERIOD__3: 0|*
+OD3_PERIOD__3__dflt: 0
+OD3_SEL_EXT__0: 0|*
+OD3_SEL_EXT__0__dflt: 0
+OD3_SEL_EXT__1: 0|*
+OD3_SEL_EXT__1__dflt: 0
+OD3_SEL_EXT__2: 0|*
+OD3_SEL_EXT__2__dflt: 0
+OD3_SEL_EXT__3: 0|*
+OD3_SEL_EXT__3__dflt: 0
+OD3_SELB_NORM__0: 0|*
+OD3_SELB_NORM__0__dflt: 0
+OD3_SELB_NORM__1: 0|*
+OD3_SELB_NORM__1__dflt: 0
+OD3_SELB_NORM__2: 0|*
+OD3_SELB_NORM__2__dflt: 0
+OD3_SELB_NORM__3: 0|*
+OD3_SELB_NORM__3__dflt: 0
+OD3_SSCE__0: 0|*
+OD3_SSCE__0__dflt: 0
+OD3_SSCE__1: 0|*
+OD3_SSCE__1__dflt: 0
+OD3_SSCE__2: 0|*
+OD3_SSCE__2__dflt: 0
+OD3_SSCE__3: 0|*
+OD3_SSCE__3__dflt: 0
+OD3_STEP__0: 0|*
+OD3_STEP__0__dflt: 0
+OD3_STEP__1: 0|*
+OD3_STEP__1__dflt: 0
+OD3_STEP__2: 0|*
+OD3_STEP__2__dflt: 0
+OD3_STEP__3: 0|*
+OD3_STEP__3__dflt: 0
+OD4_EN_AUX__0: 0|*
+OD4_EN_AUX__0__dflt: 0
+OD4_EN_AUX__1: 0|*
+OD4_EN_AUX__1__dflt: 0
+OD4_EN_AUX__2: 0|*
+OD4_EN_AUX__2__dflt: 0
+OD4_EN_AUX__3: 0|*
+OD4_EN_AUX__3__dflt: 0
+OD4_EN_FOD__0: 1|*
+OD4_EN_FOD__0__dflt: 1
+OD4_EN_FOD__1: 0|*
+OD4_EN_FOD__1__dflt: 0
+OD4_EN_FOD__2: 0|*
+OD4_EN_FOD__2__dflt: 0
+OD4_EN_FOD__3: 0|*
+OD4_EN_FOD__3__dflt: 0
+OD4_EN_VREG: 1|*
+OD4_EN_VREG__dflt: 1
+OD4_FRACTION__0: 8388608|*
+OD4_FRACTION__0__dflt: 8388608
+OD4_FRACTION__1: |*
+OD4_FRACTION__1__dflt: 
+OD4_FRACTION__2: |*
+OD4_FRACTION__2__dflt: 
+OD4_FRACTION__3: |*
+OD4_FRACTION__3__dflt: 
+OD4_FRCSKEW__0: 32|*
+OD4_FRCSKEW__0__dflt: 32
+OD4_FRCSKEW__1: 0|*
+OD4_FRCSKEW__1__dflt: 0
+OD4_FRCSKEW__2: 0|*
+OD4_FRCSKEW__2__dflt: 0
+OD4_FRCSKEW__3: 0|*
+OD4_FRCSKEW__3__dflt: 0
+OD4_INT_DIV__0: 4|*
+OD4_INT_DIV__0__dflt: 4
+OD4_INT_DIV__1: |*
+OD4_INT_DIV__1__dflt: 
+OD4_INT_DIV__2: |*
+OD4_INT_DIV__2__dflt: 
+OD4_INT_DIV__3: |*
+OD4_INT_DIV__3__dflt: 
+OD4_INT_MODE__0: 0|*
+OD4_INT_MODE__0__dflt: 0
+OD4_INT_MODE__1: 0|*
+OD4_INT_MODE__1__dflt: 0
+OD4_INT_MODE__2: 0|*
+OD4_INT_MODE__2__dflt: 0
+OD4_INT_MODE__3: 0|*
+OD4_INT_MODE__3__dflt: 0
+OD4_INTSKEW__0: 20|*
+OD4_INTSKEW__0__dflt: 20
+OD4_INTSKEW__1: 0|*
+OD4_INTSKEW__1__dflt: 0
+OD4_INTSKEW__2: 0|*
+OD4_INTSKEW__2__dflt: 0
+OD4_INTSKEW__3: 0|*
+OD4_INTSKEW__3__dflt: 0
+OD4_PERIOD__0: 0|*
+OD4_PERIOD__0__dflt: 0
+OD4_PERIOD__1: 0|*
+OD4_PERIOD__1__dflt: 0
+OD4_PERIOD__2: 0|*
+OD4_PERIOD__2__dflt: 0
+OD4_PERIOD__3: 0|*
+OD4_PERIOD__3__dflt: 0
+OD4_SEL_EXT__0: 0|*
+OD4_SEL_EXT__0__dflt: 0
+OD4_SEL_EXT__1: 0|*
+OD4_SEL_EXT__1__dflt: 0
+OD4_SEL_EXT__2: 0|*
+OD4_SEL_EXT__2__dflt: 0
+OD4_SEL_EXT__3: 0|*
+OD4_SEL_EXT__3__dflt: 0
+OD4_SELB_NORM__0: 0|*
+OD4_SELB_NORM__0__dflt: 0
+OD4_SELB_NORM__1: 0|*
+OD4_SELB_NORM__1__dflt: 0
+OD4_SELB_NORM__2: 0|*
+OD4_SELB_NORM__2__dflt: 0
+OD4_SELB_NORM__3: 0|*
+OD4_SELB_NORM__3__dflt: 0
+OD4_SSCE__0: 0|*
+OD4_SSCE__0__dflt: 0
+OD4_SSCE__1: 0|*
+OD4_SSCE__1__dflt: 0
+OD4_SSCE__2: 0|*
+OD4_SSCE__2__dflt: 0
+OD4_SSCE__3: 0|*
+OD4_SSCE__3__dflt: 0
+OD4_STEP__0: 0|*
+OD4_STEP__0__dflt: 0
+OD4_STEP__1: 0|*
+OD4_STEP__1__dflt: 0
+OD4_STEP__2: 0|*
+OD4_STEP__2__dflt: 0
+OD4_STEP__3: 0|*
+OD4_STEP__3__dflt: 0
+OE_COMPLEMENT: 0|*
+OE_COMPLEMENT__dflt: 0
+OEB3: True|*
+OEB3__dflt: True
+OEB7: True|*
+OEB7__dflt: True
+OFFSET_REAL_1__0: |*
+OFFSET_REAL_1__0__dflt: 
+OFFSET_REAL_1__1: |*
+OFFSET_REAL_1__1__dflt: 
+OFFSET_REAL_1__2: |*
+OFFSET_REAL_1__2__dflt: 
+OFFSET_REAL_1__3: |*
+OFFSET_REAL_1__3__dflt: 
+OFFSET_REAL_2__0: |*
+OFFSET_REAL_2__0__dflt: 
+OFFSET_REAL_2__1: |*
+OFFSET_REAL_2__1__dflt: 
+OFFSET_REAL_2__2: |*
+OFFSET_REAL_2__2__dflt: 
+OFFSET_REAL_2__3: |*
+OFFSET_REAL_2__3__dflt: 
+OFFSET_REAL_3__0: |*
+OFFSET_REAL_3__0__dflt: 
+OFFSET_REAL_3__1: |*
+OFFSET_REAL_3__1__dflt: 
+OFFSET_REAL_3__2: |*
+OFFSET_REAL_3__2__dflt: 
+OFFSET_REAL_3__3: |*
+OFFSET_REAL_3__3__dflt: 
+OFFSET_REAL_4__0: |*
+OFFSET_REAL_4__0__dflt: 
+OFFSET_REAL_4__1: |*
+OFFSET_REAL_4__1__dflt: 
+OFFSET_REAL_4__2: |*
+OFFSET_REAL_4__2__dflt: 
+OFFSET_REAL_4__3: |*
+OFFSET_REAL_4__3__dflt: 
+OperatorName: |*
+OperatorName__dflt: 
+OptComplete__0: False|*
+OptComplete__0__dflt: False
+OptComplete__1: False|*
+OptComplete__1__dflt: False
+OptComplete__2: False|*
+OptComplete__2__dflt: False
+OptComplete__3: False|*
+OptComplete__3__dflt: False
+osc_xtal_switching: 0|*
+osc_xtal_switching__dflt: 0
+OTP_BURNED: 0|*
+OTP_BURNED__dflt: 0
+OTP_END_ADDR: 1|*
+OTP_END_ADDR__dflt: 1
+OTP_END_HEX: 0x001|*
+OTP_END_HEX__dflt: 0x001
+OTP_IO_SET: 1|*
+OTP_IO_SET__dflt: 1
+OTP_IO_SET_MEMS: |*
+OTP_IO_SET_MEMS__dflt: 
+OTP_IO_SET_NO_MEMS: |*
+OTP_IO_SET_NO_MEMS__dflt: 
+OTP_MARGINREAD1_BUSY: 0|*
+OTP_MARGINREAD1_BUSY__dflt: 0
+OTP_PWL_SEL__0: 0|*
+OTP_PWL_SEL__0__dflt: 0
+OTP_PWL_SEL__1: 0|*
+OTP_PWL_SEL__1__dflt: 0
+OTP_PWL_SEL__2: 0|*
+OTP_PWL_SEL__2__dflt: 0
+OTP_PWL_SEL__3: 0|*
+OTP_PWL_SEL__3__dflt: 0
+OTP_RD_BUSY: 0|*
+OTP_RD_BUSY__dflt: 0
+OTP_RD_BUSY_FLAG: False|*
+OTP_RD_BUSY_FLAG__dflt: False
+OTP_START_ADDR: 1|*
+OTP_START_ADDR__dflt: 1
+OTP_START_HEX: 0x001|*
+OTP_START_HEX__dflt: 0x001
+OTP_SYNC_CURRENT_CONFIG: False|*
+OTP_SYNC_CURRENT_CONFIG__dflt: False
+OTP_TRIM: 1|*
+OTP_TRIM__dflt: 1
+OutFreqErr1__0: |*
+OutFreqErr1__0__dflt: 
+OutFreqErr1__1: |*
+OutFreqErr1__1__dflt: 
+OutFreqErr1__2: |*
+OutFreqErr1__2__dflt: 
+OutFreqErr1__3: |*
+OutFreqErr1__3__dflt: 
+OutFreqErr2__0: |*
+OutFreqErr2__0__dflt: 
+OutFreqErr2__1: |*
+OutFreqErr2__1__dflt: 
+OutFreqErr2__2: |*
+OutFreqErr2__2__dflt: 
+OutFreqErr2__3: |*
+OutFreqErr2__3__dflt: 
+OutFreqErr3__0: |*
+OutFreqErr3__0__dflt: 
+OutFreqErr3__1: |*
+OutFreqErr3__1__dflt: 
+OutFreqErr3__2: |*
+OutFreqErr3__2__dflt: 
+OutFreqErr3__3: |*
+OutFreqErr3__3__dflt: 
+OutFreqErr4__0: |*
+OutFreqErr4__0__dflt: 
+OutFreqErr4__1: |*
+OutFreqErr4__1__dflt: 
+OutFreqErr4__2: |*
+OutFreqErr4__2__dflt: 
+OutFreqErr4__3: |*
+OutFreqErr4__3__dflt: 
+OutFreqPre1__0: 0|*
+OutFreqPre1__0__dflt: 0
+OutFreqPre1__1: 0|*
+OutFreqPre1__1__dflt: 0
+OutFreqPre1__2: 0|*
+OutFreqPre1__2__dflt: 0
+OutFreqPre1__3: 0|*
+OutFreqPre1__3__dflt: 0
+OutFreqPre2__0: 0|*
+OutFreqPre2__0__dflt: 0
+OutFreqPre2__1: 0|*
+OutFreqPre2__1__dflt: 0
+OutFreqPre2__2: 0|*
+OutFreqPre2__2__dflt: 0
+OutFreqPre2__3: 0|*
+OutFreqPre2__3__dflt: 0
+OutFreqPre3__0: -1|*
+OutFreqPre3__0__dflt: -1
+OutFreqPre3__1: -1|*
+OutFreqPre3__1__dflt: -1
+OutFreqPre3__2: -1|*
+OutFreqPre3__2__dflt: -1
+OutFreqPre3__3: -1|*
+OutFreqPre3__3__dflt: -1
+OutFreqPre4__0: -1|*
+OutFreqPre4__0__dflt: -1
+OutFreqPre4__1: -1|*
+OutFreqPre4__1__dflt: -1
+OutFreqPre4__2: -1|*
+OutFreqPre4__2__dflt: -1
+OutFreqPre4__3: -1|*
+OutFreqPre4__3__dflt: -1
+OUTPUT_DIV_1__0: 25.9615384615385|*
+OUTPUT_DIV_1__0__dflt: 25.9615384615385
+OUTPUT_DIV_1__1: |*
+OUTPUT_DIV_1__1__dflt: 
+OUTPUT_DIV_1__2: |*
+OUTPUT_DIV_1__2__dflt: 
+OUTPUT_DIV_1__3: |*
+OUTPUT_DIV_1__3__dflt: 
+OUTPUT_DIV_2__0: 10.8|*
+OUTPUT_DIV_2__0__dflt: 10.8
+OUTPUT_DIV_2__1: |*
+OUTPUT_DIV_2__1__dflt: 
+OUTPUT_DIV_2__2: |*
+OUTPUT_DIV_2__2__dflt: 
+OUTPUT_DIV_2__3: |*
+OUTPUT_DIV_2__3__dflt: 
+OUTPUT_DIV_3__0: 50|*
+OUTPUT_DIV_3__0__dflt: 50
+OUTPUT_DIV_3__1: |*
+OUTPUT_DIV_3__1__dflt: 
+OUTPUT_DIV_3__2: |*
+OUTPUT_DIV_3__2__dflt: 
+OUTPUT_DIV_3__3: |*
+OUTPUT_DIV_3__3__dflt: 
+OUTPUT_DIV_4__0: 4.5|*
+OUTPUT_DIV_4__0__dflt: 4.5
+OUTPUT_DIV_4__1: |*
+OUTPUT_DIV_4__1__dflt: 
+OUTPUT_DIV_4__2: |*
+OUTPUT_DIV_4__2__dflt: 
+OUTPUT_DIV_4__3: |*
+OUTPUT_DIV_4__3__dflt: 
+OUTPUT_DIV_FRAC_1__0: |*
+OUTPUT_DIV_FRAC_1__0__dflt: 
+OUTPUT_DIV_FRAC_1__1: |*
+OUTPUT_DIV_FRAC_1__1__dflt: 
+OUTPUT_DIV_FRAC_1__2: |*
+OUTPUT_DIV_FRAC_1__2__dflt: 
+OUTPUT_DIV_FRAC_1__3: |*
+OUTPUT_DIV_FRAC_1__3__dflt: 
+OUTPUT_DIV_FRAC_2__0: |*
+OUTPUT_DIV_FRAC_2__0__dflt: 
+OUTPUT_DIV_FRAC_2__1: |*
+OUTPUT_DIV_FRAC_2__1__dflt: 
+OUTPUT_DIV_FRAC_2__2: |*
+OUTPUT_DIV_FRAC_2__2__dflt: 
+OUTPUT_DIV_FRAC_2__3: |*
+OUTPUT_DIV_FRAC_2__3__dflt: 
+OUTPUT_DIV_FRAC_3__0: |*
+OUTPUT_DIV_FRAC_3__0__dflt: 
+OUTPUT_DIV_FRAC_3__1: |*
+OUTPUT_DIV_FRAC_3__1__dflt: 
+OUTPUT_DIV_FRAC_3__2: |*
+OUTPUT_DIV_FRAC_3__2__dflt: 
+OUTPUT_DIV_FRAC_3__3: |*
+OUTPUT_DIV_FRAC_3__3__dflt: 
+OUTPUT_DIV_FRAC_4__0: |*
+OUTPUT_DIV_FRAC_4__0__dflt: 
+OUTPUT_DIV_FRAC_4__1: |*
+OUTPUT_DIV_FRAC_4__1__dflt: 
+OUTPUT_DIV_FRAC_4__2: |*
+OUTPUT_DIV_FRAC_4__2__dflt: 
+OUTPUT_DIV_FRAC_4__3: |*
+OUTPUT_DIV_FRAC_4__3__dflt: 
+OUTPUT_DIV_INT_1__0: |*
+OUTPUT_DIV_INT_1__0__dflt: 
+OUTPUT_DIV_INT_1__1: |*
+OUTPUT_DIV_INT_1__1__dflt: 
+OUTPUT_DIV_INT_1__2: |*
+OUTPUT_DIV_INT_1__2__dflt: 
+OUTPUT_DIV_INT_1__3: |*
+OUTPUT_DIV_INT_1__3__dflt: 
+OUTPUT_DIV_INT_2__0: |*
+OUTPUT_DIV_INT_2__0__dflt: 
+OUTPUT_DIV_INT_2__1: |*
+OUTPUT_DIV_INT_2__1__dflt: 
+OUTPUT_DIV_INT_2__2: |*
+OUTPUT_DIV_INT_2__2__dflt: 
+OUTPUT_DIV_INT_2__3: |*
+OUTPUT_DIV_INT_2__3__dflt: 
+OUTPUT_DIV_INT_3__0: |*
+OUTPUT_DIV_INT_3__0__dflt: 
+OUTPUT_DIV_INT_3__1: |*
+OUTPUT_DIV_INT_3__1__dflt: 
+OUTPUT_DIV_INT_3__2: |*
+OUTPUT_DIV_INT_3__2__dflt: 
+OUTPUT_DIV_INT_3__3: |*
+OUTPUT_DIV_INT_3__3__dflt: 
+OUTPUT_DIV_INT_4__0: |*
+OUTPUT_DIV_INT_4__0__dflt: 
+OUTPUT_DIV_INT_4__1: |*
+OUTPUT_DIV_INT_4__1__dflt: 
+OUTPUT_DIV_INT_4__2: |*
+OUTPUT_DIV_INT_4__2__dflt: 
+OUTPUT_DIV_INT_4__3: |*
+OUTPUT_DIV_INT_4__3__dflt: 
+OutputFrequency0__0: 25|*
+OutputFrequency0__0__dflt: 25
+OutputFrequency0__1: |*
+OutputFrequency0__1__dflt: 
+OutputFrequency0__2: |*
+OutputFrequency0__2__dflt: 
+OutputFrequency0__3: |*
+OutputFrequency0__3__dflt: 
+OutputFrequency1__0: 52|L
+OutputFrequency1__0__dflt: 52
+OutputFrequency1__1: |*
+OutputFrequency1__1__dflt: 
+OutputFrequency1__2: |*
+OutputFrequency1__2__dflt: 
+OutputFrequency1__3: |*
+OutputFrequency1__3__dflt: 
+OutputFrequency2__0: 125|L
+OutputFrequency2__0__dflt: 125
+OutputFrequency2__1: |*
+OutputFrequency2__1__dflt: 
+OutputFrequency2__2: |*
+OutputFrequency2__2__dflt: 
+OutputFrequency2__3: |*
+OutputFrequency2__3__dflt: 
+OutputFrequency3__0: 27|L
+OutputFrequency3__0__dflt: 27
+OutputFrequency3__1: |*
+OutputFrequency3__1__dflt: 
+OutputFrequency3__2: |*
+OutputFrequency3__2__dflt: 
+OutputFrequency3__3: |*
+OutputFrequency3__3__dflt: 
+OutputFrequency4__0: 300|L
+OutputFrequency4__0__dflt: 300
+OutputFrequency4__1: |*
+OutputFrequency4__1__dflt: 
+OutputFrequency4__2: |*
+OutputFrequency4__2__dflt: 
+OutputFrequency4__3: |*
+OutputFrequency4__3__dflt: 
+OutputTarget0__0: |*
+OutputTarget0__0__dflt: 
+OutputTarget0__1: |*
+OutputTarget0__1__dflt: 
+OutputTarget0__2: |*
+OutputTarget0__2__dflt: 
+OutputTarget0__3: |*
+OutputTarget0__3__dflt: 
+OutputTarget1__0: 52|*
+OutputTarget1__0__dflt: 52
+OutputTarget1__1: |*
+OutputTarget1__1__dflt: 
+OutputTarget1__2: |*
+OutputTarget1__2__dflt: 
+OutputTarget1__3: |*
+OutputTarget1__3__dflt: 
+OutputTarget1B__0: |*
+OutputTarget1B__0__dflt: 
+OutputTarget1B__1: |*
+OutputTarget1B__1__dflt: 
+OutputTarget1B__2: |*
+OutputTarget1B__2__dflt: 
+OutputTarget1B__3: |*
+OutputTarget1B__3__dflt: 
+OutputTarget2__0: 125|*
+OutputTarget2__0__dflt: 125
+OutputTarget2__1: |*
+OutputTarget2__1__dflt: 
+OutputTarget2__2: |*
+OutputTarget2__2__dflt: 
+OutputTarget2__3: |*
+OutputTarget2__3__dflt: 
+OutputTarget2B__0: |*
+OutputTarget2B__0__dflt: 
+OutputTarget2B__1: |*
+OutputTarget2B__1__dflt: 
+OutputTarget2B__2: |*
+OutputTarget2B__2__dflt: 
+OutputTarget2B__3: |*
+OutputTarget2B__3__dflt: 
+OutputTarget3__0: 27|*
+OutputTarget3__0__dflt: 27
+OutputTarget3__1: |*
+OutputTarget3__1__dflt: 
+OutputTarget3__2: |*
+OutputTarget3__2__dflt: 
+OutputTarget3__3: |*
+OutputTarget3__3__dflt: 
+OutputTarget3B__0: |*
+OutputTarget3B__0__dflt: 
+OutputTarget3B__1: |*
+OutputTarget3B__1__dflt: 
+OutputTarget3B__2: |*
+OutputTarget3B__2__dflt: 
+OutputTarget3B__3: |*
+OutputTarget3B__3__dflt: 
+OutputTarget4__0: 300|*
+OutputTarget4__0__dflt: 300
+OutputTarget4__1: |*
+OutputTarget4__1__dflt: 
+OutputTarget4__2: |*
+OutputTarget4__2__dflt: 
+OutputTarget4__3: |*
+OutputTarget4__3__dflt: 
+OutputTarget4B__0: |*
+OutputTarget4B__0__dflt: 
+OutputTarget4B__1: |*
+OutputTarget4B__1__dflt: 
+OutputTarget4B__2: |*
+OutputTarget4B__2__dflt: 
+OutputTarget4B__3: |*
+OutputTarget4B__3__dflt: 
+P3BYP__0: 1|*
+P3BYP__0__dflt: 1
+P3BYP__1: 1|*
+P3BYP__1__dflt: 1
+P3BYP__2: 1|*
+P3BYP__2__dflt: 1
+P3BYP__3: 1|*
+P3BYP__3__dflt: 1
+P3BYP_SV__0: 1|*
+P3BYP_SV__0__dflt: 1
+P3BYP_SV__1: 1|*
+P3BYP_SV__1__dflt: 1
+P3BYP_SV__2: 1|*
+P3BYP_SV__2__dflt: 1
+P3BYP_SV__3: 1|*
+P3BYP_SV__3__dflt: 1
+P3BYP_SV1__0: 1|*
+P3BYP_SV1__0__dflt: 1
+P3BYP_SV1__1: 1|*
+P3BYP_SV1__1__dflt: 1
+P3BYP_SV1__2: 1|*
+P3BYP_SV1__2__dflt: 1
+P3BYP_SV1__3: 1|*
+P3BYP_SV1__3__dflt: 1
+PDB_TMP: 1|*
+PDB_TMP__dflt: 1
+personality_maj: |*
+personality_maj__dflt: 
+personality_min: |*
+personality_min__dflt: 
+PFD_CP_REG_OUTPUT: 0|*
+PFD_CP_REG_OUTPUT__dflt: 0
+PFDFreq__0: 50|*
+PFDFreq__0__dflt: 50
+PFDFreq__1: 50|*
+PFDFreq__1__dflt: 50
+PFDFreq__2: 50|*
+PFDFreq__2__dflt: 50
+PFDFreq__3: 50|*
+PFDFreq__3__dflt: 50
+PFDFreq_SV__0: 50|*
+PFDFreq_SV__0__dflt: 50
+PFDFreq_SV__1: 50|*
+PFDFreq_SV__1__dflt: 50
+PFDFreq_SV__2: 50|*
+PFDFreq_SV__2__dflt: 50
+PFDFreq_SV__3: 50|*
+PFDFreq_SV__3__dflt: 50
+PFDFreqMax__0: 300|*
+PFDFreqMax__0__dflt: 300
+PFDFreqMax__1: 300|*
+PFDFreqMax__1__dflt: 300
+PFDFreqMax__2: 300|*
+PFDFreqMax__2__dflt: 300
+PFDFreqMax__3: 300|*
+PFDFreqMax__3__dflt: 300
+PFDFreqMin__0: 1|*
+PFDFreqMin__0__dflt: 1
+PFDFreqMin__1: 1|*
+PFDFreqMin__1__dflt: 1
+PFDFreqMin__2: 1|*
+PFDFreqMin__2__dflt: 1
+PFDFreqMin__3: 1|*
+PFDFreqMin__3__dflt: 1
+PLL_FB_DIV_DENOM: 0|*
+PLL_FB_DIV_DENOM__dflt: 0
+PLL_FB_DIV_NUM: 0|*
+PLL_FB_DIV_NUM__dflt: 0
+pll_lock: 0|*
+pll_lock__dflt: 0
+PLL_LOCK_BYPASS: 0|*
+PLL_LOCK_BYPASS__dflt: 0
+POWER: False|*
+POWER__dflt: False
+PPM_ACT_1__0: |*
+PPM_ACT_1__0__dflt: 
+PPM_ACT_1__1: |*
+PPM_ACT_1__1__dflt: 
+PPM_ACT_1__2: |*
+PPM_ACT_1__2__dflt: 
+PPM_ACT_1__3: |*
+PPM_ACT_1__3__dflt: 
+PPM_ACT_3__0: |*
+PPM_ACT_3__0__dflt: 
+PPM_ACT_3__1: |*
+PPM_ACT_3__1__dflt: 
+PPM_ACT_3__2: |*
+PPM_ACT_3__2__dflt: 
+PPM_ACT_3__3: |*
+PPM_ACT_3__3__dflt: 
+PPM_ACT_4__0: |*
+PPM_ACT_4__0__dflt: 
+PPM_ACT_4__1: |*
+PPM_ACT_4__1__dflt: 
+PPM_ACT_4__2: |*
+PPM_ACT_4__2__dflt: 
+PPM_ACT_4__3: |*
+PPM_ACT_4__3__dflt: 
+PPM_MAX_1__0: 0|*
+PPM_MAX_1__0__dflt: 0
+PPM_MAX_1__1: 0|*
+PPM_MAX_1__1__dflt: 0
+PPM_MAX_1__2: 0|*
+PPM_MAX_1__2__dflt: 0
+PPM_MAX_1__3: 0|*
+PPM_MAX_1__3__dflt: 0
+PPM_MAX_2__0: 0|*
+PPM_MAX_2__0__dflt: 0
+PPM_MAX_2__1: 0|*
+PPM_MAX_2__1__dflt: 0
+PPM_MAX_2__2: 0|*
+PPM_MAX_2__2__dflt: 0
+PPM_MAX_2__3: 0|*
+PPM_MAX_2__3__dflt: 0
+PPM_MAX_3__0: 0|*
+PPM_MAX_3__0__dflt: 0
+PPM_MAX_3__1: 0|*
+PPM_MAX_3__1__dflt: 0
+PPM_MAX_3__2: 0|*
+PPM_MAX_3__2__dflt: 0
+PPM_MAX_3__3: 0|*
+PPM_MAX_3__3__dflt: 0
+PPM_MAX_4__0: 0|*
+PPM_MAX_4__0__dflt: 0
+PPM_MAX_4__1: 0|*
+PPM_MAX_4__1__dflt: 0
+PPM_MAX_4__2: 0|*
+PPM_MAX_4__2__dflt: 0
+PPM_MAX_4__3: 0|*
+PPM_MAX_4__3__dflt: 0
+PreOS1__0: |*
+PreOS1__0__dflt: 
+PreOS1__1: |*
+PreOS1__1__dflt: 
+PreOS1__2: |*
+PreOS1__2__dflt: 
+PreOS1__3: |*
+PreOS1__3__dflt: 
+PreOS1B__0: |*
+PreOS1B__0__dflt: 
+PreOS1B__1: |*
+PreOS1B__1__dflt: 
+PreOS1B__2: |*
+PreOS1B__2__dflt: 
+PreOS1B__3: |*
+PreOS1B__3__dflt: 
+PreOS2__0: |*
+PreOS2__0__dflt: 
+PreOS2__1: |*
+PreOS2__1__dflt: 
+PreOS2__2: |*
+PreOS2__2__dflt: 
+PreOS2__3: |*
+PreOS2__3__dflt: 
+PreOS2B__0: |*
+PreOS2B__0__dflt: 
+PreOS2B__1: |*
+PreOS2B__1__dflt: 
+PreOS2B__2: |*
+PreOS2B__2__dflt: 
+PreOS2B__3: |*
+PreOS2B__3__dflt: 
+PreOS3__0: |*
+PreOS3__0__dflt: 
+PreOS3__1: |*
+PreOS3__1__dflt: 
+PreOS3__2: |*
+PreOS3__2__dflt: 
+PreOS3__3: |*
+PreOS3__3__dflt: 
+PreOS3B__0: |*
+PreOS3B__0__dflt: 
+PreOS3B__1: |*
+PreOS3B__1__dflt: 
+PreOS3B__2: |*
+PreOS3B__2__dflt: 
+PreOS3B__3: |*
+PreOS3B__3__dflt: 
+PreOS4__0: |*
+PreOS4__0__dflt: 
+PreOS4__1: |*
+PreOS4__1__dflt: 
+PreOS4__2: |*
+PreOS4__2__dflt: 
+PreOS4__3: |*
+PreOS4__3__dflt: 
+PreOS4B__0: |*
+PreOS4B__0__dflt: 
+PreOS4B__1: |*
+PreOS4B__1__dflt: 
+PreOS4B__2: |*
+PreOS4B__2__dflt: 
+PreOS4B__3: |*
+PreOS4B__3__dflt: 
+PRIMSRC__0: 0|*
+PRIMSRC__0__dflt: 0
+PRIMSRC__1: 0|*
+PRIMSRC__1__dflt: 0
+PRIMSRC__2: 0|*
+PRIMSRC__2__dflt: 0
+PRIMSRC__3: 0|*
+PRIMSRC__3__dflt: 0
+PriorState1__0: 1|*
+PriorState1__0__dflt: 1
+PriorState1__1: 0|*
+PriorState1__1__dflt: 0
+PriorState1__2: 0|*
+PriorState1__2__dflt: 0
+PriorState1__3: 0|*
+PriorState1__3__dflt: 0
+PriorState2__0: 1|*
+PriorState2__0__dflt: 1
+PriorState2__1: 0|*
+PriorState2__1__dflt: 0
+PriorState2__2: 0|*
+PriorState2__2__dflt: 0
+PriorState2__3: 0|*
+PriorState2__3__dflt: 0
+PriorState3__0: 1|*
+PriorState3__0__dflt: 1
+PriorState3__1: 0|*
+PriorState3__1__dflt: 0
+PriorState3__2: 0|*
+PriorState3__2__dflt: 0
+PriorState3__3: 0|*
+PriorState3__3__dflt: 0
+PriorState4__0: 1|*
+PriorState4__0__dflt: 1
+PriorState4__1: 0|*
+PriorState4__1__dflt: 0
+PriorState4__2: 0|*
+PriorState4__2__dflt: 0
+PriorState4__3: 0|*
+PriorState4__3__dflt: 0
+priorVCO__0: -1|*
+priorVCO__0__dflt: -1
+priorVCO__1: -1|*
+priorVCO__1__dflt: -1
+priorVCO__2: -1|*
+priorVCO__2__dflt: -1
+priorVCO__3: -1|*
+priorVCO__3__dflt: -1
+ProjectName: |*
+ProjectName__dflt: 
+PWL_GAIN: 0|*
+PWL_GAIN__dflt: 0
+PWL_OFFSET_TBIN: 0|*
+PWL_OFFSET_TBIN__dflt: 0
+PWL_TEMPY: 0|*
+PWL_TEMPY__dflt: 0
+PWLEN: 0|*
+PWLEN__dflt: 0
+PWLWAIT: 0|*
+PWLWAIT__dflt: 0
+RD_CFG_FLAG: 0|*
+RD_CFG_FLAG__dflt: 0
+RD_PWL_FLAG: 0|*
+RD_PWL_FLAG__dflt: 0
+RDOTP_ACTIVE: 0|*
+RDOTP_ACTIVE__dflt: 0
+RDOTP_DONE: 0|*
+RDOTP_DONE__dflt: 0
+RDOTP_DONE_CFG: 0|*
+RDOTP_DONE_CFG__dflt: 0
+RDOTP_DONE_PWL: 0|*
+RDOTP_DONE_PWL__dflt: 0
+Read_Mode__0: False|*
+Read_Mode__0__dflt: False
+Read_Mode__1: False|*
+Read_Mode__1__dflt: False
+Read_Mode__2: False|*
+Read_Mode__2__dflt: False
+Read_Mode__3: False|*
+Read_Mode__3__dflt: False
+REF_DIV__0: 3|*
+REF_DIV__0__dflt: 3
+REF_DIV__1: 3|*
+REF_DIV__1__dflt: 3
+REF_DIV__2: 3|*
+REF_DIV__2__dflt: 3
+REF_DIV__3: 3|*
+REF_DIV__3__dflt: 3
+REF_DIV_CTRL__0: False|*
+REF_DIV_CTRL__0__dflt: False
+REF_DIV_CTRL__1: False|*
+REF_DIV_CTRL__1__dflt: False
+REF_DIV_CTRL__2: False|*
+REF_DIV_CTRL__2__dflt: False
+REF_DIV_CTRL__3: False|*
+REF_DIV_CTRL__3__dflt: False
+REF_TEST_EN: 0|*
+REF_TEST_EN__dflt: 0
+RefDiv_prior__0: -1|*
+RefDiv_prior__0__dflt: -1
+RefDiv_prior__1: -1|*
+RefDiv_prior__1__dflt: -1
+RefDiv_prior__2: -1|*
+RefDiv_prior__2__dflt: -1
+RefDiv_prior__3: -1|*
+RefDiv_prior__3__dflt: -1
+RegisterMeta__0: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 60 00 00 00 9F FF F0 80 00 81 03 D8 9D 88 00 00 00 00 00 02 60 01 90 1E 00 81 03 33 33 30 00 00 00 00 00 02 00 00 A0 3F 00 81 00 00 00 00 00 00 00 00 00 00 00 03 20 00 00 81 02 00 00 00 00 00 00 00 00 01 40 00 40 20 63 05 63 05 63 05 63 05 FC FC |L
+RegisterMeta__0__dflt: 
+RegisterMeta__1: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 |L
+RegisterMeta__1__dflt: 
+RegisterMeta__2: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 |L
+RegisterMeta__2__dflt: 
+RegisterMeta__3: 61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 |L
+RegisterMeta__3__dflt: 
+Registers0_F: |*
+Registers0_F__dflt: 
+SAVE_CNF_C3__0: -1|*
+SAVE_CNF_C3__0__dflt: -1
+SAVE_CNF_C3__1: -1|*
+SAVE_CNF_C3__1__dflt: -1
+SAVE_CNF_C3__2: -1|*
+SAVE_CNF_C3__2__dflt: -1
+SAVE_CNF_C3__3: -1|*
+SAVE_CNF_C3__3__dflt: -1
+SAVE_CNF_R3__0: -1|*
+SAVE_CNF_R3__0__dflt: -1
+SAVE_CNF_R3__1: -1|*
+SAVE_CNF_R3__1__dflt: -1
+SAVE_CNF_R3__2: -1|*
+SAVE_CNF_R3__2__dflt: -1
+SAVE_CNF_R3__3: -1|*
+SAVE_CNF_R3__3__dflt: -1
+SD_OUT_EN: 0|*
+SD_OUT_EN__dflt: 0
+SDM_ORDER_CFG__0: 0|*
+SDM_ORDER_CFG__0__dflt: 0
+SDM_ORDER_CFG__1: 0|*
+SDM_ORDER_CFG__1__dflt: 0
+SDM_ORDER_CFG__2: 0|*
+SDM_ORDER_CFG__2__dflt: 0
+SDM_ORDER_CFG__3: 0|*
+SDM_ORDER_CFG__3__dflt: 0
+SDM_ORDER_CTRL__0: True|*
+SDM_ORDER_CTRL__0__dflt: True
+SDM_ORDER_CTRL__1: True|*
+SDM_ORDER_CTRL__1__dflt: True
+SDM_ORDER_CTRL__2: True|*
+SDM_ORDER_CTRL__2__dflt: True
+SDM_ORDER_CTRL__3: True|*
+SDM_ORDER_CTRL__3__dflt: True
+SDOE__0: False|*
+SDOE__0__dflt: False
+SDOE__1: False|*
+SDOE__1__dflt: False
+SDOE__2: False|*
+SDOE__2__dflt: False
+SDOE__3: False|*
+SDOE__3__dflt: False
+SDOE_CLK1__0: 1|*
+SDOE_CLK1__0__dflt: 1
+SDOE_CLK1__1: 1|*
+SDOE_CLK1__1__dflt: 1
+SDOE_CLK1__2: 1|*
+SDOE_CLK1__2__dflt: 1
+SDOE_CLK1__3: 1|*
+SDOE_CLK1__3__dflt: 1
+SDOE_CLK2__0: 1|*
+SDOE_CLK2__0__dflt: 1
+SDOE_CLK2__1: 1|*
+SDOE_CLK2__1__dflt: 1
+SDOE_CLK2__2: 1|*
+SDOE_CLK2__2__dflt: 1
+SDOE_CLK2__3: 1|*
+SDOE_CLK2__3__dflt: 1
+SDOE_CLK3__0: 1|*
+SDOE_CLK3__0__dflt: 1
+SDOE_CLK3__1: 1|*
+SDOE_CLK3__1__dflt: 1
+SDOE_CLK3__2: 1|*
+SDOE_CLK3__2__dflt: 1
+SDOE_CLK3__3: 1|*
+SDOE_CLK3__3__dflt: 1
+SDOE_CLK4__0: 1|*
+SDOE_CLK4__0__dflt: 1
+SDOE_CLK4__1: 1|*
+SDOE_CLK4__1__dflt: 1
+SDOE_CLK4__2: 1|*
+SDOE_CLK4__2__dflt: 1
+SDOE_CLK4__3: 1|*
+SDOE_CLK4__3__dflt: 1
+SEL_PREDIV2__0: 0|*
+SEL_PREDIV2__0__dflt: 0
+SEL_PREDIV2__1: 0|*
+SEL_PREDIV2__1__dflt: 0
+SEL_PREDIV2__2: 0|*
+SEL_PREDIV2__2__dflt: 0
+SEL_PREDIV2__3: 0|*
+SEL_PREDIV2__3__dflt: 0
+SKEW_DEG_1__0: 520|*
+SKEW_DEG_1__0__dflt: 520
+SKEW_DEG_1__1: 0|*
+SKEW_DEG_1__1__dflt: 0
+SKEW_DEG_1__2: 0|*
+SKEW_DEG_1__2__dflt: 0
+SKEW_DEG_1__3: 0|*
+SKEW_DEG_1__3__dflt: 0
+SKEW_DEG_2__0: 1073|*
+SKEW_DEG_2__0__dflt: 1073
+SKEW_DEG_2__1: 0|*
+SKEW_DEG_2__1__dflt: 0
+SKEW_DEG_2__2: 0|*
+SKEW_DEG_2__2__dflt: 0
+SKEW_DEG_2__3: 0|*
+SKEW_DEG_2__3__dflt: 0
+SKEW_DEG_3__0: 0|*
+SKEW_DEG_3__0__dflt: 0
+SKEW_DEG_3__1: 0|*
+SKEW_DEG_3__1__dflt: 0
+SKEW_DEG_3__2: 0|*
+SKEW_DEG_3__2__dflt: 0
+SKEW_DEG_3__3: 0|*
+SKEW_DEG_3__3__dflt: 0
+SKEW_DEG_4__0: 1600|*
+SKEW_DEG_4__0__dflt: 1600
+SKEW_DEG_4__1: 0|*
+SKEW_DEG_4__1__dflt: 0
+SKEW_DEG_4__2: 0|*
+SKEW_DEG_4__2__dflt: 0
+SKEW_DEG_4__3: 0|*
+SKEW_DEG_4__3__dflt: 0
+SKIP_CONFIRM: False|*
+SKIP_CONFIRM__dflt: False
+SM__0: 1|*
+SM__0__dflt: 1
+SM__1: 1|*
+SM__1__dflt: 1
+SM__2: 1|*
+SM__2__dflt: 1
+SM__3: 1|*
+SM__3__dflt: 1
+something_reserved: 0|*
+something_reserved__dflt: 0
+something_reserved2: 0|*
+something_reserved2__dflt: 0
+something_reserved3: 0|*
+something_reserved3__dflt: 0
+SP__0: 0|*
+SP__0__dflt: 0
+SP__1: 0|*
+SP__1__dflt: 0
+SP__2: 0|*
+SP__2__dflt: 0
+SP__3: 0|*
+SP__3__dflt: 0
+Spread_1__0: |*
+Spread_1__0__dflt: 
+Spread_1__1: |*
+Spread_1__1__dflt: 
+Spread_1__2: |*
+Spread_1__2__dflt: 
+Spread_1__3: |*
+Spread_1__3__dflt: 
+SRC_PRE1__0: 8|*
+SRC_PRE1__0__dflt: 8
+SRC_PRE1__1: 8|*
+SRC_PRE1__1__dflt: 8
+SRC_PRE1__2: 8|*
+SRC_PRE1__2__dflt: 8
+SRC_PRE1__3: 8|*
+SRC_PRE1__3__dflt: 8
+SRC_PRE2__0: 8|*
+SRC_PRE2__0__dflt: 8
+SRC_PRE2__1: 8|*
+SRC_PRE2__1__dflt: 8
+SRC_PRE2__2: 8|*
+SRC_PRE2__2__dflt: 8
+SRC_PRE2__3: 8|*
+SRC_PRE2__3__dflt: 8
+SRC_PRE3__0: 8|*
+SRC_PRE3__0__dflt: 8
+SRC_PRE3__1: 8|*
+SRC_PRE3__1__dflt: 8
+SRC_PRE3__2: 8|*
+SRC_PRE3__2__dflt: 8
+SRC_PRE3__3: 8|*
+SRC_PRE3__3__dflt: 8
+SRC_PRE4__0: 8|*
+SRC_PRE4__0__dflt: 8
+SRC_PRE4__1: 8|*
+SRC_PRE4__1__dflt: 8
+SRC_PRE4__2: 8|*
+SRC_PRE4__2__dflt: 8
+SRC_PRE4__3: 8|*
+SRC_PRE4__3__dflt: 8
+SRC1__0: 1|*
+SRC1__0__dflt: 1
+SRC1__1: 0|*
+SRC1__1__dflt: 0
+SRC1__2: 0|*
+SRC1__2__dflt: 0
+SRC1__3: 0|*
+SRC1__3__dflt: 0
+SRC1_Init__0: True|*
+SRC1_Init__0__dflt: True
+SRC1_Init__1: True|*
+SRC1_Init__1__dflt: True
+SRC1_Init__2: True|*
+SRC1_Init__2__dflt: True
+SRC1_Init__3: True|*
+SRC1_Init__3__dflt: True
+SRC2__0: 1|*
+SRC2__0__dflt: 1
+SRC2__1: 0|*
+SRC2__1__dflt: 0
+SRC2__2: 0|*
+SRC2__2__dflt: 0
+SRC2__3: 0|*
+SRC2__3__dflt: 0
+SRC2_Init__0: True|*
+SRC2_Init__0__dflt: True
+SRC2_Init__1: True|*
+SRC2_Init__1__dflt: True
+SRC2_Init__2: True|*
+SRC2_Init__2__dflt: True
+SRC2_Init__3: True|*
+SRC2_Init__3__dflt: True
+SRC3__0: 1|*
+SRC3__0__dflt: 1
+SRC3__1: 0|*
+SRC3__1__dflt: 0
+SRC3__2: 0|*
+SRC3__2__dflt: 0
+SRC3__3: 0|*
+SRC3__3__dflt: 0
+SRC3_Init__0: True|*
+SRC3_Init__0__dflt: True
+SRC3_Init__1: True|*
+SRC3_Init__1__dflt: True
+SRC3_Init__2: True|*
+SRC3_Init__2__dflt: True
+SRC3_Init__3: True|*
+SRC3_Init__3__dflt: True
+SRC4__0: 1|*
+SRC4__0__dflt: 1
+SRC4__1: 0|*
+SRC4__1__dflt: 0
+SRC4__2: 0|*
+SRC4__2__dflt: 0
+SRC4__3: 0|*
+SRC4__3__dflt: 0
+SRC4_Init__0: True|*
+SRC4_Init__0__dflt: True
+SRC4_Init__1: True|*
+SRC4_Init__1__dflt: True
+SRC4_Init__2: True|*
+SRC4_Init__2__dflt: True
+SRC4_Init__3: True|*
+SRC4_Init__3__dflt: True
+SS_AMOUNT_1__0: 0|*
+SS_AMOUNT_1__0__dflt: 0
+SS_AMOUNT_1__1: 0.5|*
+SS_AMOUNT_1__1__dflt: 0.5
+SS_AMOUNT_1__2: 0.5|*
+SS_AMOUNT_1__2__dflt: 0.5
+SS_AMOUNT_1__3: 0.5|*
+SS_AMOUNT_1__3__dflt: 0.5
+SS_AMOUNT_2__0: 0|*
+SS_AMOUNT_2__0__dflt: 0
+SS_AMOUNT_2__1: 0.5|*
+SS_AMOUNT_2__1__dflt: 0.5
+SS_AMOUNT_2__2: 0.5|*
+SS_AMOUNT_2__2__dflt: 0.5
+SS_AMOUNT_2__3: 0.5|*
+SS_AMOUNT_2__3__dflt: 0.5
+SS_AMOUNT_3__0: 0|*
+SS_AMOUNT_3__0__dflt: 0
+SS_AMOUNT_3__1: 0.5|*
+SS_AMOUNT_3__1__dflt: 0.5
+SS_AMOUNT_3__2: 0.5|*
+SS_AMOUNT_3__2__dflt: 0.5
+SS_AMOUNT_3__3: 0.5|*
+SS_AMOUNT_3__3__dflt: 0.5
+SS_AMOUNT_4__0: 0|*
+SS_AMOUNT_4__0__dflt: 0
+SS_AMOUNT_4__1: 0.5|*
+SS_AMOUNT_4__1__dflt: 0.5
+SS_AMOUNT_4__2: 0.5|*
+SS_AMOUNT_4__2__dflt: 0.5
+SS_AMOUNT_4__3: 0.5|*
+SS_AMOUNT_4__3__dflt: 0.5
+SS_DIR_1__0: 0|*
+SS_DIR_1__0__dflt: 0
+SS_DIR_1__1: 0|*
+SS_DIR_1__1__dflt: 0
+SS_DIR_1__2: 0|*
+SS_DIR_1__2__dflt: 0
+SS_DIR_1__3: 0|*
+SS_DIR_1__3__dflt: 0
+SS_DIR_2__0: 0|*
+SS_DIR_2__0__dflt: 0
+SS_DIR_2__1: 0|*
+SS_DIR_2__1__dflt: 0
+SS_DIR_2__2: 0|*
+SS_DIR_2__2__dflt: 0
+SS_DIR_2__3: 0|*
+SS_DIR_2__3__dflt: 0
+SS_DIR_3__0: 0|*
+SS_DIR_3__0__dflt: 0
+SS_DIR_3__1: 0|*
+SS_DIR_3__1__dflt: 0
+SS_DIR_3__2: 0|*
+SS_DIR_3__2__dflt: 0
+SS_DIR_3__3: 0|*
+SS_DIR_3__3__dflt: 0
+SS_DIR_4__0: 0|*
+SS_DIR_4__0__dflt: 0
+SS_DIR_4__1: 0|*
+SS_DIR_4__1__dflt: 0
+SS_DIR_4__2: 0|*
+SS_DIR_4__2__dflt: 0
+SS_DIR_4__3: 0|*
+SS_DIR_4__3__dflt: 0
+SS_RATE_1__0: 0|*
+SS_RATE_1__0__dflt: 0
+SS_RATE_1__1: 31.5|*
+SS_RATE_1__1__dflt: 31.5
+SS_RATE_1__2: 31.5|*
+SS_RATE_1__2__dflt: 31.5
+SS_RATE_1__3: 31.5|*
+SS_RATE_1__3__dflt: 31.5
+SS_RATE_2__0: 0|*
+SS_RATE_2__0__dflt: 0
+SS_RATE_2__1: 31.5|*
+SS_RATE_2__1__dflt: 31.5
+SS_RATE_2__2: 31.5|*
+SS_RATE_2__2__dflt: 31.5
+SS_RATE_2__3: 31.5|*
+SS_RATE_2__3__dflt: 31.5
+SS_RATE_3__0: 0|*
+SS_RATE_3__0__dflt: 0
+SS_RATE_3__1: 31.5|*
+SS_RATE_3__1__dflt: 31.5
+SS_RATE_3__2: 31.5|*
+SS_RATE_3__2__dflt: 31.5
+SS_RATE_3__3: 31.5|*
+SS_RATE_3__3__dflt: 31.5
+SS_RATE_4__0: 0|*
+SS_RATE_4__0__dflt: 0
+SS_RATE_4__1: 31.5|*
+SS_RATE_4__1__dflt: 31.5
+SS_RATE_4__2: 31.5|*
+SS_RATE_4__2__dflt: 31.5
+SS_RATE_4__3: 31.5|*
+SS_RATE_4__3__dflt: 31.5
+STEP_REAL_1__0: |*
+STEP_REAL_1__0__dflt: 
+STEP_REAL_1__1: |*
+STEP_REAL_1__1__dflt: 
+STEP_REAL_1__2: |*
+STEP_REAL_1__2__dflt: 
+STEP_REAL_1__3: |*
+STEP_REAL_1__3__dflt: 
+STEP_REAL_2__0: |*
+STEP_REAL_2__0__dflt: 
+STEP_REAL_2__1: |*
+STEP_REAL_2__1__dflt: 
+STEP_REAL_2__2: |*
+STEP_REAL_2__2__dflt: 
+STEP_REAL_2__3: |*
+STEP_REAL_2__3__dflt: 
+STEP_REAL_3__0: |*
+STEP_REAL_3__0__dflt: 
+STEP_REAL_3__1: |*
+STEP_REAL_3__1__dflt: 
+STEP_REAL_3__2: |*
+STEP_REAL_3__2__dflt: 
+STEP_REAL_3__3: |*
+STEP_REAL_3__3__dflt: 
+STEP_REAL_4__0: |*
+STEP_REAL_4__0__dflt: 
+STEP_REAL_4__1: |*
+STEP_REAL_4__1__dflt: 
+STEP_REAL_4__2: |*
+STEP_REAL_4__2__dflt: 
+STEP_REAL_4__3: |*
+STEP_REAL_4__3__dflt: 
+TAA: 8|*
+TAA__dflt: 8
+TCPE: 20|*
+TCPE__dflt: 20
+TEMPsense__0: 1|*
+TEMPsense__0__dflt: 1
+TEMPsense__1: 1|*
+TEMPsense__1__dflt: 1
+TEMPsense__2: 1|*
+TEMPsense__2__dflt: 1
+TEMPsense__3: 1|*
+TEMPsense__3__dflt: 1
+TEST: 15|*
+TEST__dflt: 15
+TEST_DN: 1|*
+TEST_DN__dflt: 1
+TEST_MODE_VCO_BAND__0: 0|*
+TEST_MODE_VCO_BAND__0__dflt: 0
+TEST_MODE_VCO_BAND__1: 0|*
+TEST_MODE_VCO_BAND__1__dflt: 0
+TEST_MODE_VCO_BAND__2: 0|*
+TEST_MODE_VCO_BAND__2__dflt: 0
+TEST_MODE_VCO_BAND__3: 0|*
+TEST_MODE_VCO_BAND__3__dflt: 0
+test_mode_vco_band_6F: 0|*
+test_mode_vco_band_6F__dflt: 0
+TEST_UP: 1|*
+TEST_UP__dflt: 1
+TESTMUX_EN: 0|*
+TESTMUX_EN__dflt: 0
+tmpFreq: 0|*
+tmpFreq__dflt: 0
+TPPR: 2|*
+TPPR__dflt: 2
+TPRD: 16|*
+TPRD__dflt: 16
+TPRDI: 2|*
+TPRDI__dflt: 2
+TPW: 110|*
+TPW__dflt: 110
+TPWI: 5|*
+TPWI__dflt: 5
+Units: False|*
+Units__dflt: False
+USR_RD_START: 0|*
+USR_RD_START__dflt: 0
+VCO_BAND__0: 12|*
+VCO_BAND__0__dflt: 12
+VCO_BAND__1: 12|*
+VCO_BAND__1__dflt: 12
+VCO_BAND__2: 12|*
+VCO_BAND__2__dflt: 12
+VCO_BAND__3: 12|*
+VCO_BAND__3__dflt: 12
+vco_band_6F: 12|*
+vco_band_6F__dflt: 12
+VCO_BIAS_BYP: 1|*
+VCO_BIAS_BYP__dflt: 1
+VCO_CONTROL_VOLTAGE: 0|*
+VCO_CONTROL_VOLTAGE__dflt: 0
+VCO_FREQ__0: 2700|L
+VCO_FREQ__0__dflt: 2700
+VCO_FREQ__1: 2500|*
+VCO_FREQ__1__dflt: 2500
+VCO_FREQ__2: 2500|*
+VCO_FREQ__2__dflt: 2500
+VCO_FREQ__3: 2500|*
+VCO_FREQ__3__dflt: 2500
+VCO_prior__0: -1|*
+VCO_prior__0__dflt: -1
+VCO_prior__1: -1|*
+VCO_prior__1__dflt: -1
+VCO_prior__2: -1|*
+VCO_prior__2__dflt: -1
+VCO_prior__3: -1|*
+VCO_prior__3__dflt: -1
+VCO_REGULATOR_OUTPUT: 0|*
+VCO_REGULATOR_OUTPUT__dflt: 0
+VCO_SW: 0|*
+VCO_SW__dflt: 0
+VCOmax__0: 2900|*
+VCOmax__0__dflt: 2900
+VCOmax__1: 2900|*
+VCOmax__1__dflt: 2900
+VCOmax__2: 2900|*
+VCOmax__2__dflt: 2900
+VCOmax__3: 2900|*
+VCOmax__3__dflt: 2900
+VCOmin__0: 2500|*
+VCOmin__0__dflt: 2500
+VCOmin__1: 2500|*
+VCOmin__1__dflt: 2500
+VCOmin__2: 2500|*
+VCOmin__2__dflt: 2500
+VCOmin__3: 2500|*
+VCOmin__3__dflt: 2500
+XTAL_CAP_TOTAL: 0|*
+XTAL_CAP_TOTAL__dflt: 0
+XTAL_Char: True|*
+XTAL_Char__dflt: True
+XTAL_CL__0: 8 pF|*
+XTAL_CL__0__dflt: 8 pF
+XTAL_CL__1: 8 pF|*
+XTAL_CL__1__dflt: 8 pF
+XTAL_CL__2: 8 pF|*
+XTAL_CL__2__dflt: 8 pF
+XTAL_CL__3: 8 pF|*
+XTAL_CL__3__dflt: 8 pF
+XTAL_I_SEL__0: 0|*
+XTAL_I_SEL__0__dflt: 0
+XTAL_I_SEL__1: 0|*
+XTAL_I_SEL__1__dflt: 0
+XTAL_I_SEL__2: 0|*
+XTAL_I_SEL__2__dflt: 0
+XTAL_I_SEL__3: 0|*
+XTAL_I_SEL__3__dflt: 0
+XTAL_LOAD_CAP_BOTH_META__0: 20|*
+XTAL_LOAD_CAP_BOTH_META__0__dflt: 20
+XTAL_LOAD_CAP_BOTH_META__1: 20|*
+XTAL_LOAD_CAP_BOTH_META__1__dflt: 20
+XTAL_LOAD_CAP_BOTH_META__2: 20|*
+XTAL_LOAD_CAP_BOTH_META__2__dflt: 20
+XTAL_LOAD_CAP_BOTH_META__3: 20|*
+XTAL_LOAD_CAP_BOTH_META__3__dflt: 20
+XTAL_LOAD_CAP_BOTH_META_EN__0: False|*
+XTAL_LOAD_CAP_BOTH_META_EN__0__dflt: False
+XTAL_LOAD_CAP_BOTH_META_EN__1: False|*
+XTAL_LOAD_CAP_BOTH_META_EN__1__dflt: False
+XTAL_LOAD_CAP_BOTH_META_EN__2: False|*
+XTAL_LOAD_CAP_BOTH_META_EN__2__dflt: False
+XTAL_LOAD_CAP_BOTH_META_EN__3: False|*
+XTAL_LOAD_CAP_BOTH_META_EN__3__dflt: False
+XTAL_LOAD_CAP_SET_BY_INTERNAL__0: False|*
+XTAL_LOAD_CAP_SET_BY_INTERNAL__0__dflt: False
+XTAL_LOAD_CAP_SET_BY_INTERNAL__1: False|*
+XTAL_LOAD_CAP_SET_BY_INTERNAL__1__dflt: False
+XTAL_LOAD_CAP_SET_BY_INTERNAL__2: False|*
+XTAL_LOAD_CAP_SET_BY_INTERNAL__2__dflt: False
+XTAL_LOAD_CAP_SET_BY_INTERNAL__3: False|*
+XTAL_LOAD_CAP_SET_BY_INTERNAL__3__dflt: False
+XTAL_LOAD_CAP_X1__0: 63|*
+XTAL_LOAD_CAP_X1__0__dflt: 63
+XTAL_LOAD_CAP_X1__1: 63|*
+XTAL_LOAD_CAP_X1__1__dflt: 63
+XTAL_LOAD_CAP_X1__2: 63|*
+XTAL_LOAD_CAP_X1__2__dflt: 63
+XTAL_LOAD_CAP_X1__3: 63|*
+XTAL_LOAD_CAP_X1__3__dflt: 63
+XTAL_LOAD_CAP_X1_META__0: 32|*
+XTAL_LOAD_CAP_X1_META__0__dflt: 32
+XTAL_LOAD_CAP_X1_META__1: 32|*
+XTAL_LOAD_CAP_X1_META__1__dflt: 32
+XTAL_LOAD_CAP_X1_META__2: 32|*
+XTAL_LOAD_CAP_X1_META__2__dflt: 32
+XTAL_LOAD_CAP_X1_META__3: 32|*
+XTAL_LOAD_CAP_X1_META__3__dflt: 32
+XTAL_LOAD_CAP_X1_META_SAVE__0: 0|*
+XTAL_LOAD_CAP_X1_META_SAVE__0__dflt: 0
+XTAL_LOAD_CAP_X1_META_SAVE__1: 0|*
+XTAL_LOAD_CAP_X1_META_SAVE__1__dflt: 0
+XTAL_LOAD_CAP_X1_META_SAVE__2: 0|*
+XTAL_LOAD_CAP_X1_META_SAVE__2__dflt: 0
+XTAL_LOAD_CAP_X1_META_SAVE__3: 0|*
+XTAL_LOAD_CAP_X1_META_SAVE__3__dflt: 0
+XTAL_LOAD_CAP_X2__0: 63|*
+XTAL_LOAD_CAP_X2__0__dflt: 63
+XTAL_LOAD_CAP_X2__1: 63|*
+XTAL_LOAD_CAP_X2__1__dflt: 63
+XTAL_LOAD_CAP_X2__2: 63|*
+XTAL_LOAD_CAP_X2__2__dflt: 63
+XTAL_LOAD_CAP_X2__3: 63|*
+XTAL_LOAD_CAP_X2__3__dflt: 63
+XTAL_LOAD_CAP_X2_META__0: 32|*
+XTAL_LOAD_CAP_X2_META__0__dflt: 32
+XTAL_LOAD_CAP_X2_META__1: 32|*
+XTAL_LOAD_CAP_X2_META__1__dflt: 32
+XTAL_LOAD_CAP_X2_META__2: 32|*
+XTAL_LOAD_CAP_X2_META__2__dflt: 32
+XTAL_LOAD_CAP_X2_META__3: 32|*
+XTAL_LOAD_CAP_X2_META__3__dflt: 32
+XTAL_SAVE_CHECKBOX__0: False|*
+XTAL_SAVE_CHECKBOX__0__dflt: False
+XTAL_SAVE_CHECKBOX__1: False|*
+XTAL_SAVE_CHECKBOX__1__dflt: False
+XTAL_SAVE_CHECKBOX__2: False|*
+XTAL_SAVE_CHECKBOX__2__dflt: False
+XTAL_SAVE_CHECKBOX__3: False|*
+XTAL_SAVE_CHECKBOX__3__dflt: False
+XTAL_SAVE_X1__0: |*
+XTAL_SAVE_X1__0__dflt: 
+XTAL_SAVE_X1__1: |*
+XTAL_SAVE_X1__1__dflt: 
+XTAL_SAVE_X1__2: |*
+XTAL_SAVE_X1__2__dflt: 
+XTAL_SAVE_X1__3: |*
+XTAL_SAVE_X1__3__dflt: 
+XTAL_SAVE_X2__0: |*
+XTAL_SAVE_X2__0__dflt: 
+XTAL_SAVE_X2__1: |*
+XTAL_SAVE_X2__1__dflt: 
+XTAL_SAVE_X2__2: |*
+XTAL_SAVE_X2__2__dflt: 
+XTAL_SAVE_X2__3: |*
+XTAL_SAVE_X2__3__dflt: 
+
+61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 60 00 00 00 9F FF F0 80 00 81 03 D8 9D 88 00 00 00 00 00 02 60 01 90 1E 00 81 03 33 33 30 00 00 00 00 00 02 00 00 A0 3F 00 81 00 00 00 00 00 00 00 00 00 00 00 03 20 00 00 81 02 00 00 00 00 00 00 00 00 01 40 00 40 20 63 05 63 05 63 05 63 05 FC FC 
+61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 
+61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 
+61 83 FF 00 00 00 00 00 00 FF FD 00 00 B6 B4 92 A8 4C FD FC 00 03 8C 03 20 00 00 00 9F FF F0 80 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3B 04 3B 04 3B 04 3B 04 FF 04 
+
+***
+63cb9447
