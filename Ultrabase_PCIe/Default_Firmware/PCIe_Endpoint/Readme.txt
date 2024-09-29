@@ -1,0 +1,1 @@
+BOOT.bin present in this folder will be detected as PCIe Endpoint with LED counter
